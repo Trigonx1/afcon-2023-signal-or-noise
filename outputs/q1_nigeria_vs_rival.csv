@@ -1,0 +1,5 @@
+﻿match_id,match_date,stage,team,opponent,goals_for,goals_against,shots,xg,npxg,xg_against,npxg_against,shots_against,xg_per_shot,xg_diff,expected_points,points,went_to_shootout
+3920398,2024-01-18,Group Stage,Côte d'Ivoire,Nigeria,0.0,1.0,14,0.6072,0.6072,1.5756,0.7921,11,0.0434,-0.9683,0.6732,0,False
+3920398,2024-01-18,Group Stage,Nigeria,Côte d'Ivoire,1.0,0.0,11,1.5756,0.7921,0.6072,0.6072,14,0.1432,0.9683,2.0776,3,False
+3923881,2024-02-11,Final,Côte d'Ivoire,Nigeria,2.0,1.0,18,1.4139,1.4139,0.2582,0.2582,5,0.0786,1.1557,2.2773,3,False
+3923881,2024-02-11,Final,Nigeria,Côte d'Ivoire,1.0,2.0,5,0.2582,0.2582,1.4139,1.4139,18,0.0516,-1.1557,0.4597,0,False

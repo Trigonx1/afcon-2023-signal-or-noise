@@ -1,0 +1,44 @@
+EVENT FIELD AUDIT (top-level keys across all AFCON 2023 events)
+============================================================
+Distinct keys: 39
+Keys containing obv / defr / responsibility: none
+
+50_50: 283
+bad_behaviour: 43
+ball_receipt: 7481
+ball_recovery: 381
+block: 83
+carry: 34866
+clearance: 2235
+counterpress: 4861
+dribble: 1360
+duel: 3157
+duration: 120002
+foul_committed: 296
+foul_won: 529
+goalkeeper: 1570
+id: 162903
+index: 162903
+injury_stoppage: 44
+interception: 872
+location: 160901
+minute: 162903
+miscontrol: 43
+off_camera: 3420
+out: 1542
+pass: 44422
+period: 162903
+play_pattern: 162903
+player: 161989
+position: 161989
+possession: 162903
+possession_team: 162903
+related_events: 155456
+second: 162903
+shot: 1244
+substitution: 463
+tactics: 305
+team: 162903
+timestamp: 162903
+type: 162903
+under_pressure: 33173

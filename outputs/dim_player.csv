@@ -1,0 +1,513 @@
+﻿player_id,player,player_full_name,team_id,team,primary_position,jersey_number
+2941,Ismaïla Sarr,Ismaïla Sarr,787,Senegal,Right Wing,18
+2956,Bertrand Traoré,Bertrand Isidore Traoré,4921,Burkina Faso,Right Wing,10
+2989,Alexander Djiku,Alexander Djiku,4885,Ghana,Right Center Back,23
+3013,Nicolas Pépé,Nicolas Pépé,3374,Côte d'Ivoire,Center Forward,19
+3017,Ibrahim Sangaré,Ibrahim Sangaré,3374,Côte d'Ivoire,Center Defensive Midfield,18
+3035,Steeve Yago,Steeve Yago,4921,Burkina Faso,Left Back,25
+3044,Chancel Mbemba,Chancel Mbemba Mangulu,4881,Congo DR,Right Center Back,22
+3130,Gaël Kakuta,Gaël Kakuta,4881,Congo DR,Center Attacking Midfield,14
+3138,Abdoulaye Touré,Abdoulaye Touré,4892,Guinea,Right Defensive Midfield,23
+3139,Chidozie Awaziem,Chidozie Collins Awaziem,775,Nigeria,Right Wing Back,20
+3141,André Zambo Anguissa,André-Frank Zambo Anguissa,2722,Cameroon,Right Defensive Midfield,8
+3191,Ramy Bensebaini,Ramy Bensebaini,4898,Algeria,Left Center Back,21
+3198,Moussa Niakhaté,Moussa Niakhate,787,Senegal,Left Center Back,19
+3226,Bassem Srarfi,Bassem Srarfi,777,Tunisia,Right Midfield,19
+3248,Hamari Traoré,Hamari Traoré,4930,Mali,Right Back,2
+3250,Mexer,Edson André Sitoe,4978,Mozambique,Right Center Back,17
+3255,Guessouma Fofana,Guessouma Fofana,4932,Mauritania,Left Defensive Midfield,6
+3347,André Ayew,André Ayew Pelé,4885,Ghana,Right Wing,10
+3359,Jean Michaël Seri,Jean Michaël Seri,3374,Côte d'Ivoire,Left Defensive Midfield,4
+3405,François Kamano,François Kamano,4892,Guinea,Left Wing,19
+3417,Saidy Janko,Saidy Janko,4934,Gambia,Right Back,17
+3433,Lassana Coulibaly,Lassana Coulibaly,4930,Mali,Right Center Midfield,11
+3436,Idrissa Gueye,Idrissa Gana Gueye,787,Senegal,Right Center Midfield,5
+3447,Ademola Lookman,Ademola Lookman,775,Nigeria,Left Wing,18
+3450,Jordan Ayew,Jordan Ayew,4885,Ghana,Left Wing,9
+3481,Serge Aurier,Serge Aurier,3374,Côte d'Ivoire,Right Back,17
+3531,Mohamed Salah,Mohamed Salah,774,Egypt,Center Attacking Midfield,10
+3551,Karl Toko Ekambi,Karl Brillant Toko Ekambi,2722,Cameroon,Right Wing,12
+3557,Naïm Sliti,Naïm Sliti,777,Tunisia,Center Attacking Midfield,23
+3568,Mohamed Elneny,Mohamed Naser Elsayed Elneny,774,Egypt,Right Center Midfield,17
+3587,Arthur Masuaku,Arthur Masuaku,4881,Congo DR,Left Back,26
+3625,Sofiane Boufal,Sofiane Boufal,788,Morocco,Left Midfield,17
+3629,Sadio Mané,Sadio Mané,787,Senegal,Left Wing,10
+3639,Georges-Kevin N'Koudou,Georges-Kévin Nkoudou Mbida,2722,Cameroon,Left Wing,11
+3647,Alex Iwobi,Alex Iwobi,775,Nigeria,Left Defensive Midfield,17
+3675,Fodé Ballo Touré,Fodé Ballo Touré,787,Senegal,Left Back,12
+3684,Cheikhou Kouyaté,Cheikhou Kouyaté,787,Senegal,Center Defensive Midfield,8
+3708,Kelechi Iheanacho,Kelechi Promise Iheanacho,775,Nigeria,Right Wing,14
+3709,Daniel Amartey,Daniel Amartey,4885,Ghana,Right Center Back,18
+3710,Fousseni Diabaté,Fousseni Diabaté,4930,Mali,Right Midfield,19
+3767,Ellyes Joris Skhiri,Ellyes Joris Skhiri,777,Tunisia,Right Defensive Midfield,17
+3806,Bright Samuel,Bright Osayi-Samuel,775,Nigeria,Right Wing Back,12
+3811,Islam Slimani,Islam Slimani,4898,Algeria,Left Center Forward,13
+3814,Riyad Mahrez,Riyad Mahrez,4898,Algeria,Right Wing,7
+3856,Joe Aribo,Joe Aribo,775,Nigeria,Left Defensive Midfield,10
+3923,Semi Ajayi,Oluwasemilogo Adesewo Ibidapo Ajayi,775,Nigeria,Right Center Back,6
+4063,Ahmed Hegazy,Ahmed Elsayed Ali Elsayed Hegazy,774,Egypt,Right Center Back,6
+4218,Ryan Nyambe,Ryan Nyambe,4980,Namibia,Right Back,22
+4256,Jonathan Bamba,Jonathan Bamba,3374,Côte d'Ivoire,Left Wing,9
+4267,Mouctar Diakhaby,Mouctar Diakhaby,4892,Guinea,Right Center Back,5
+4308,Houssem Aouar,Houssem Aouar,4898,Algeria,Left Center Midfield,11
+4352,Issiaga Sylla,Issiaga Sylla,4892,Guinea,Left Back,3
+4376,Edgar Ié,Edgar Miguel Ié,4894,Guinea-Bissau,Right Center Back,25
+4385,Yves Bissouma,Yves Bissouma,4930,Mali,Left Defensive Midfield,10
+4388,Kouakou Herve Koffi,Kouakou Herve Koffi,4921,Burkina Faso,Goalkeeper,16
+4412,Samuel Moutoussamy,Samuel Moutoussamy,4881,Congo DR,Left Defensive Midfield,8
+4416,Max Gradel,Max-Alain Gradel,3374,Côte d'Ivoire,Right Wing,15
+4464,Adama Traoré,Adama Traoré,4930,Mali,Right Center Forward,21
+4471,Ablie Jallow,Ablie Jallow,4934,Gambia,Center Attacking Midfield,3
+4506,Nampalys Mendy,Nampalys Mendy,787,Senegal,Left Center Midfield,6
+4696,Ebou Adams,Ebou Adams,4934,Gambia,Center Defensive Midfield,8
+4753,Aaron Tshibola,Aaron Tshibola,4881,Congo DR,Right Defensive Midfield,6
+4909,Jérémie Boga,Jeremie Boga,3374,Côte d'Ivoire,Left Wing,13
+4939,Joris Kayembe,Joris Kayembe Ditu,4881,Congo DR,Left Back,12
+5219,Romain Saïss,Romain Saïss,788,Morocco,Left Center Back,6
+5229,Ayoub El Kaabi,Ayoub El Kaabi,788,Morocco,Center Forward,20
+5234,Sofyan Amrabat,Sofyan Amrabat,788,Morocco,Center Defensive Midfield,4
+5237,Hakim Ziyech,Hakim Ziyech,788,Morocco,Right Midfield,7
+5243,Amine Harit,Amine Harit,788,Morocco,Right Midfield,10
+5245,Achraf Hakimi,Achraf Hakimi Mouh,788,Morocco,Right Back,2
+5257,Kahraba,Mahmoud Abdul Monem Abdelhamid Soliman,774,Egypt,Right Center Forward,11
+5261,Trézéguet,Mahmoud Ibrahim Hassan,774,Egypt,Left Wing,7
+5265,Mohamed El Shenawy,Mohamed El Sayed Mohamed El Shenawy Gomaa,774,Egypt,Goalkeeper,16
+5454,Francis Uzoho,Francis Odinaka Uzoho,775,Nigeria,Goalkeeper,1
+5455,William Troost-Ekong,William Troost-Ekong,775,Nigeria,Center Back,5
+5647,Ali Maâloul,Ali Maâloul,777,Tunisia,Left Back,12
+5651,Yassine Meriah,Yassine Meriah,777,Tunisia,Right Center Back,4
+5675,Kalidou Koulibaly,Kalidou Koulibaly,787,Senegal,Right Center Back,3
+5830,Kenneth Omeruo,Kenneth Josiah Omeruo,775,Nigeria,Center Back,22
+6301,Youssef En-Nesyri,Youssef En-Nesyri,788,Morocco,Center Forward,19
+6393,Iñaki Williams,Iñaki Williams Arthuer,4885,Ghana,Right Wing,19
+6648,Aïssa Mandi,Aïssa Mandi,4898,Algeria,Right Center Back,2
+6785,Yassine Bounou,Yassine Bounou,788,Morocco,Goalkeeper,1
+6862,Cédric Bakambu,Cédric Bakambu,4881,Congo DR,Center Forward,17
+6988,Musa Barrow,Musa Barrow,4934,Gambia,Center Attacking Midfield,10
+7023,Franck Kessié,Franck Yannick Kessié,3374,Côte d'Ivoire,Right Center Midfield,8
+7197,Steven Moreira,Steven Moreira,4924,Cape Verde Islands,Right Back,23
+7214,El-Hadji Ba,El-Hadji Ba,4932,Mauritania,Left Center Midfield,7
+7294,Yoane Wissa,Yoane Wissa,4881,Congo DR,Left Wing,20
+7295,Sikou Niakaté,Sikou Niakate,4930,Mali,Left Center Back,6
+7355,Olivier Kemen,Olivier Michel Kemen,2722,Cameroon,Left Center Midfield,6
+7360,Julian Jeanvier,Julian Jeanvier,4892,Guinea,Left Center Back,17
+7378,Yunis Abdelhamid,Yunis Abdelhamid,788,Morocco,Left Center Back,13
+7379,Edouard Mendy,Edouard Mendy,787,Senegal,Goalkeeper,16
+7386,Harold Moukoudi,Harold Moukoudi,2722,Cameroon,Left Center Back,2
+7426,Jean-Charles Castelletto,Jean-Charles Castelletto,2722,Cameroon,Right Center Back,21
+7568,Opa Sangante,Opa Sangante,4894,Guinea-Bissau,Left Center Back,22
+7713,Evan N'Dicka,Obite Evan Ndicka,3374,Côte d'Ivoire,Left Center Back,21
+7753,Jamiro Monteiro,Jamiro Gregory Monteiro Alvarenga,4924,Cape Verde Islands,Center Attacking Midfield,10
+7791,Seko Fofana,Seko Fofana,3374,Côte d'Ivoire,Left Center Midfield,6
+7900,Bebé,Tiago Manuel Dias Correia,4924,Cape Verde Islands,Center Forward,21
+8012,José Kanté,José Kanté Martínez,4892,Guinea,Center Forward,24
+8050,Tarik Tissoudali,Tarik Tissoudali,788,Morocco,Center Forward,9
+8064,André Onana,André Onana,2722,Cameroon,Goalkeeper,24
+8284,Amadou Diawara,Amadou Diawara,4892,Guinea,Right Defensive Midfield,6
+8349,Deroy Duarte,Deroy Duarte,4924,Cape Verde Islands,Right Center Midfield,14
+8454,Mohamed Bayo,Mohamed Bayo,4892,Guinea,Right Center Forward,11
+8505,Naby Keïta,Naby Deco Keïta,4892,Guinea,Left Defensive Midfield,8
+8520,Nabil Bentaleb,Nabil Bentaleb,4898,Algeria,Right Defensive Midfield,19
+8553,Abdou Diallo,Abdou Diallo,787,Senegal,Center Back,22
+8673,Sébastien Haller,Sébastien Haller,3374,Côte d'Ivoire,Center Forward,22
+8759,Diadié Samassékou,Diadie Samassekou,4930,Mali,Center Defensive Midfield,8
+8774,Amadou Haïdara,Amadou Haïdara,4930,Mali,Left Center Midfield,4
+8785,Patson Daka,Patson Daka,4963,Zambia,Left Center Forward,20
+8992,Ibrahim Sissoko,Ibrahim Sissoko,4930,Mali,Center Forward,9
+9102,Serhou Guirassy,Serhou Guirassy,4892,Guinea,Left Center Forward,9
+9286,Antoine Semenyo,Antoine Semenyo,4885,Ghana,Center Forward,25
+9361,Houboulang Mendes,Houboulang Mendes,4894,Guinea-Bissau,Right Back,5
+9859,Elisha Owusu,Elisha Owusu,4885,Ghana,Left Defensive Midfield,15
+9933,Willy Boly,Willy Boly,3374,Côte d'Ivoire,Right Center Back,12
+10039,Ghislain Konan,Ghislain Konan,3374,Côte d'Ivoire,Left Back,3
+10040,Youcef Atal,Youcef Atal,4898,Algeria,Right Back,20
+10280,Aboubakar Kamara,Aboubakar Kamara,4932,Mauritania,Right Center Forward,27
+10323,Alfa Semedo,Alfa Semedo Esteves,4894,Guinea-Bissau,Right Defensive Midfield,8
+10448,Adam Ounas,Adam Ounas,4898,Algeria,Right Wing,12
+10530,Olivier Ntcham,Jules Olivier Ntcham,2722,Cameroon,Left Defensive Midfield,22
+10573,Jonathan Buatu,Jonathan Buatu Mananga,4901,Angola,Right Center Back,3
+10577,Gelson,Jacinto Muondo Dala,4901,Angola,Left Wing,10
+10598,Jovane Cabral,Jovane Eduardo Borges Cabral,4924,Cape Verde Islands,Center Forward,7
+10705,Mamadou Fofana,Mamadou Fofana,4930,Mali,Center Defensive Midfield,15
+10844,Fredy,Alfredo Kulembe Ribeiro,4901,Angola,Right Defensive Midfield,16
+10848,Reinildo Mandava,Reinildo Isnard Mandava,4978,Mozambique,Left Back,15
+10854,Dálcio,Euciodálcio Gomes,4894,Guinea-Bissau,Center Attacking Midfield,7
+10865,Witi,Witiness Chimoio João Quembo,4978,Mozambique,Right Midfield,19
+11174,Vincent Aboubakar,Vincent Paté Aboubakar,2722,Cameroon,Left Center Forward,10
+11277,Victor Osimhen,Victor James Osimhen,775,Nigeria,Center Forward,9
+11492,Ola Aina,Temitayo Olufisayo Olaoluwa Aina,775,Nigeria,Left Wing Back,2
+11515,Ismaël Bennacer,Ismael Bennacer,4898,Algeria,Left Center Midfield,22
+11923,Aly Abeid,Yacoub Aly Abeid,4932,Mauritania,Left Back,3
+12064,Mama Baldé,Mama Samba Baldé,4894,Guinea-Bissau,Center Forward,17
+12111,Rayan Aït Nouri,Rayan Aït Nouri,4898,Algeria,Left Back,15
+12149,Nayef Aguerd,Nayef Aguerd,788,Morocco,Right Center Back,5
+12175,Carlos Gomes,Carlos Mendes Gomes,4894,Guinea-Bissau,Left Wing,13
+12259,Denis Odoi,Denis Odoi,4885,Ghana,Right Back,3
+12496,Christian Kouamé,Christian Kouamé,3374,Côte d'Ivoire,Right Wing,20
+12498,Omar Colley,Omar Colley,4934,Gambia,Left Center Back,5
+12557,Falaye Sacko,Falaye Sacko,4930,Mali,Left Back,17
+13329,Silas Katompa Mvumpa,Silas Katompa Mvumpa,4881,Congo DR,Left Wing,11
+13454,Nouhou Tolo,Nouhou Tolo,2722,Cameroon,Left Wing Back,5
+13581,Emilio Nsue,Emilio Nsue López,4992,Equatorial Guinea,Center Forward,10
+15311,Koka,Ahmed Hassan Mahgoub,774,Egypt,Right Center Forward,9
+15890,Noussair Mazraoui,Noussair Mazraoui,788,Morocco,Left Back,3
+16001,Garry Rodrigues,Garry Mendes Rodrigues,4924,Cape Verde Islands,Left Wing,11
+16015,Moumi Ngamaleu,Nicolas Moumi Ngamaleu,2722,Cameroon,Right Wing Back,3
+16025,Mohamed Aly Camara,Mohamed Aly Camara,4892,Guinea,Left Center Back,13
+16329,Bubacarr Sanneh,Bubacarr Sanneh,4934,Gambia,Right Center Back,25
+16335,Samuel Chukwueze,Samuel Chimerenka Chukwueze,775,Nigeria,Right Attacking Midfield,11
+16546,Joseph Paintsil,Joseph Paintsil,4885,Ghana,Right Wing,13
+16548,Mbwana Samatta,Mbwana Ally Samatta,4953,Tanzania,Center Forward,10
+16607,Assan Ceesay,Assan Ceesay,4934,Gambia,Center Forward,9
+17033,Mohammed Kudus,Mohammed Kudus,4885,Ghana,Center Attacking Midfield,20
+17618,Carlos Akapo,Carlos Akapo Martínez,4992,Equatorial Guinea,Right Back,15
+18163,Moses Simon,Moses Daddy-Ajala Simon,775,Nigeria,Right Wing,15
+18244,Grady Diangana,Grady Diangana,4881,Congo DR,Center Attacking Midfield,7
+18516,Habib Diallo,Habibou Mouhamadou Diallo,787,Senegal,Center Forward,20
+18651,Carlos Mané,Carlos Manuel Cardoso Mané,4894,Guinea-Bissau,Left Wing,10
+18724,Sofiane Feghouli,Sofiane Feghouli,4898,Algeria,Center Attacking Midfield,10
+18783,Omenuke Mfulu,Omenuke Mfulu,4881,Congo DR,Right Defensive Midfield,27
+19426,Tarryn Allarakhia,Tarryn Allarakhia,4953,Tanzania,Left Wing,11
+20758,Krépin Diatta,Krépin Diatta,787,Senegal,Right Wing Back,15
+20840,Zinho Gano,Zinho Gano,4894,Guinea-Bissau,Center Forward,9
+21026,Pape Gueye,Pape Gueye,787,Senegal,Center Defensive Midfield,26
+21173,Laros Duarte,Laros Duarte,4924,Cape Verde Islands,Center Attacking Midfield,15
+22274,Bruno Paz,Bruno Lourenço Pinto de Almeida Paz,4901,Angola,Center Defensive Midfield,17
+22823,Dimitry Bertaud,Dimitry Bertaud,4881,Congo DR,Goalkeeper,16
+23013,Nanu,Eulânio Ângelo Chipela Gomes,4894,Guinea-Bissau,Left Back,21
+23203,Stopilla Sunzu,Stopilla Sunzu,4963,Zambia,Right Center Back,13
+23260,Emmanuel Banda,Emmanuel Justine Rabby Banda,4963,Zambia,Center Defensive Midfield,12
+23301,Kenny Rocha Santos,Kenny Rocha Santos,4924,Cape Verde Islands,Right Center Midfield,18
+23307,Idrissa Doumbia,Idrissa Doumbia,3374,Côte d'Ivoire,Center Defensive Midfield,25
+23331,Kiki Kouyaté,Boubakar Kouyate,4930,Mali,Right Center Back,5
+23420,Lubambo Musonda,Lubambo Musonda,4963,Zambia,Left Back,8
+23559,Pepín Machín,José Ndong Machín Dicombo,4992,Equatorial Guinea,Center Attacking Midfield,7
+23615,Gideon Mensah,Gideon Mensah,4885,Ghana,Left Back,14
+23623,Sekou Koita,Sekou Koita,4930,Mali,Right Center Forward,20
+23706,Alfons Amade,Alfons Amade,4978,Mozambique,Left Defensive Midfield,16
+23708,Fashion Sakala,Fashion Sakala,4963,Zambia,Left Midfield,10
+23774,Selim Amallah,Selim Amallah,788,Morocco,Left Center Midfield,15
+23785,Théo Bongonda Mbul'Ofeko Batombo,Théo Bongonda Mbul'Ofeko Batombo,4881,Congo DR,Center Attacking Midfield,10
+23873,Nurio Fortuna,Núrio Domingos Matias Fortuna,4901,Angola,Left Wing Back,2
+23892,Aboubakary Koita,Aboubakary Koita,4932,Mauritania,Center Attacking Midfield,19
+23910,Youssef Msakni,Youssef Msakni,777,Tunisia,Left Wing,7
+23957,Jean Thierry Lazare Amani,Jean Thierry Lazare Amani,3374,Côte d'Ivoire,Center Attacking Midfield,27
+23983,Jérémy Bela,Jérémy Bela,4901,Angola,Left Wing,18
+23999,Blati,Ibrahim Blati Touré,4921,Burkina Faso,Left Center Midfield,22
+24087,Iddrisu Baba,Iddrisu Baba Mohammed,4885,Ghana,Right Defensive Midfield,26
+24105,Dylan Batubinsika,Dylan Batubinsika,4881,Congo DR,Left Center Back,5
+24411,Adama Guira,Adama Guira,4921,Burkina Faso,Right Defensive Midfield,24
+24467,Frank Onyeka,Frank Onyeka,775,Nigeria,Right Defensive Midfield,8
+24478,Paul Onuachu,Paul Onuachu,775,Nigeria,Center Forward,19
+24670,Fabrice Ondoa,Joseph Fabrice Ondoa Ebogo,2722,Cameroon,Goalkeeper,1
+24806,Mohamed Camara,Mohamed Camara,4930,Mali,Center Defensive Midfield,12
+24826,Simon Banza,Simon Bokote Banza,4881,Congo DR,Center Forward,23
+24909,Moreto Cassamã,Moreto Moro Cassamã,4894,Guinea-Bissau,Center Attacking Midfield,16
+25056,Marcelo Djaló,Marcelo Amado Djaló Taritolay,4894,Guinea-Bissau,Right Center Back,4
+25759,Abdoulaye Seck,Abdoulaye Seck,787,Senegal,Right Center Back,4
+26825,Noah Sonko-Sundberg,Noah Sonko-Sundberg,4934,Gambia,Right Defensive Midfield,14
+27133,Odilon Kossonou,Odilon Kossonou,3374,Côte d'Ivoire,Right Center Back,7
+27434,Alhassan Yusuf Abdullahi,Alhassan Yusuf,775,Nigeria,Right Center Midfield,4
+28212,Alasana Manneh,Alasana Manneh,4934,Gambia,Right Defensive Midfield,16
+28413,Willy Afonso Semedo Johnson,Willy Afonso Semedo Johnson,4924,Cape Verde Islands,Right Back,17
+28415,Charles Pickel,Charles Pickel,4881,Congo DR,Right Defensive Midfield,18
+28444,Oumar Gonzalez,Oumar Gonzalez,2722,Cameroon,Center Back,15
+29164,Hamza Barry,Hamza Barry,4934,Gambia,Left Defensive Midfield,2
+29217,Edward Chilufya,Edward Chilufya,4963,Zambia,Right Wing,14
+29367,Percy Tau,Percy Tau,4976,South Africa,Right Wing,10
+29482,Ricardo Guimarães,Ricardo Martins Guimarães,4978,Mozambique,Left Defensive Midfield,21
+29816,Ibou Touray,Ibou Touray,4934,Gambia,Left Back,13
+30104,Sori Mané,Manconi Soriano Mané,4894,Guinea-Bissau,Left Center Back,20
+30193,Gédéon Kalulu,Gedeon Kalulu Kyatengwa,4881,Congo DR,Right Back,24
+30423,Ibán Salvador,Ibán Salvador Edu,4992,Equatorial Guinea,Right Wing,6
+30519,Mohamed Salisu,Mohamed Salisu,4885,Ghana,Left Center Back,6
+30606,Edmond Fayçal Tapsoba,Edmond Fayçal Tapsoba,4921,Burkina Faso,Left Center Back,12
+30626,Estrela,Valdomiro Tualungo Paulo Lameiras,4901,Angola,Left Center Midfield,20
+30681,Ali Abdi,Ali Abdi,777,Tunisia,Left Back,2
+30693,Majeed Ashimeru,Majeed Ashimeru,4885,Ghana,Left Defensive Midfield,8
+31016,Show,Manuel Luís da Silva Cafumana,4901,Angola,Left Defensive Midfield,23
+31029,Salis Abdul Samed,Salis Abdul Samed,4885,Ghana,Left Defensive Midfield,21
+31295,Yahia Attiyat allah,Yahia Attiyat allah,788,Morocco,Left Back,25
+31751,Pathé Ismaël Ciss,Pathé Ismaël Ciss,787,Senegal,Center Defensive Midfield,11
+31949,Zaidu Sanusi,Zaidu Sanusi,775,Nigeria,Left Wing Back,3
+32015,Hichem Boudaoui,Hichem Boudaoui,4898,Algeria,Right Center Midfield,14
+32190,Darline Yongwa,Darlin Zidane Yongwa Ngameni,2722,Cameroon,Left Back,18
+32433,Jefferson Encada,Jefferson Anilson Silva Encada,4894,Guinea-Bissau,Right Back,15
+32450,Montassar Omar Talbi,Montassar Omar Talbi,777,Tunisia,Left Center Back,3
+32767,Hassane Bandé,Boureima Hassane Bandé,4921,Burkina Faso,Center Attacking Midfield,19
+32868,Bryan Alberto Silva Teixeira Jr.,Bryan Alberto Silva Teixeira Jr.,4924,Cape Verde Islands,Center Forward,19
+32915,Ismail Jakobs,Ismail Jakobs,787,Senegal,Left Wing Back,14
+32952,Moussa Diarra,Moussa Diarra,4930,Mali,Left Back,13
+33342,Ebrima Colley,Ebrima Colley,4934,Gambia,Right Midfield,19
+33395,Ransford Königsdörffer,Ransford Königsdörffer,4885,Ghana,Center Attacking Midfield,7
+33401,Amine Adli,Amine Adli,788,Morocco,Right Wing,21
+34293,Faris Moumbagna,Faris Pemi Moumbagna,2722,Cameroon,Center Forward,19
+34335,Terem Moffi,Terem Igobor Moffi,775,Nigeria,Center Forward,24
+34845,Federico Bikoro Akieme Nchama,Federico Bikoro Akieme Nchama,4992,Equatorial Guinea,Right Defensive Midfield,4
+35285,Mory Konaté,Mory Konaté,4892,Guinea,Right Defensive Midfield,20
+35413,Lionel Mpasi-Nzau,Lionel Mpasi-Nzau,4881,Congo DR,Goalkeeper,1
+35471,Issa Kabore,Issa Kabore,4921,Burkina Faso,Right Midfield,9
+35592,Anis Slimane,Anis Ben Slimane,777,Tunisia,Left Center Forward,10
+35684,Meschak Elia,Meschak Elia,4881,Congo DR,Right Wing,13
+35689,James Gomez,James Gomez,4934,Gambia,Right Center Back,12
+36271,R.Lopes,Roberto Lopes,4924,Cape Verde Islands,Left Center Back,4
+36539,Wilfried Stephane Singo,Wilfried Stephane Singo,3374,Côte d'Ivoire,Right Back,5
+36552,Ouparine Djoco,Ouparine Djoco,4894,Guinea-Bissau,Goalkeeper,12
+36629,Yahia Fofana,Yahia Fofana,3374,Côte d'Ivoire,Goalkeeper,1
+36813,Janio Bikel,Janio Bikel Figueiredo Silva,4894,Guinea-Bissau,Center Defensive Midfield,19
+36951,Babacar Niasse,Babacar Niasse,4932,Mauritania,Goalkeeper,16
+38345,Ramiz Zerrouki,Ramiz Larbi Zerrouki,4898,Algeria,Left Defensive Midfield,6
+38862,Raphael Nwadike,Raphael Onyedika,775,Nigeria,Right Defensive Midfield,25
+39073,Ilaix Moriba,Moriba Kourouma Kourouma,4892,Guinea,Right Defensive Midfield,10
+39174,Ismael Saibari,Ismael Saibari,788,Morocco,Left Center Midfield,11
+39559,Aguibou Camara,Aguibou Camara,4892,Guinea,Center Attacking Midfield,18
+40128,Jannick Buyla,Jannick Buyla Sam,4992,Equatorial Guinea,Left Wing,8
+40485,Ryan Mendes,Ryan Isaac Mendes da Graça,4924,Cape Verde Islands,Right Wing,20
+40761,Omar Marmoush,Omar Marmoush,774,Egypt,Left Wing,22
+40868,Amadou Dante,Amadou Dante,4930,Mali,Left Back,3
+41045,Milson,Felicio Mendes Joao Milson,4901,Angola,Center Attacking Midfield,11
+41052,Fali Candé,Fali Candé,4894,Guinea-Bissau,Left Back,2
+41134,Marvin Anieboh,Marvin José Anieboh Pallaruelo,4992,Equatorial Guinea,Right Back,3
+41381,Anthony Mandréa,Anthony Louis Mandréa,4898,Algeria,Goalkeeper,16
+42527,Sphephelo S''Miso Sithole,Sphephelo S''Miso Sithole,4976,South Africa,Left Defensive Midfield,13
+43007,Mauro Rodrigues,Mauro Daniel Rodrigues Teixeira,4894,Guinea-Bissau,Right Wing,14
+43072,Jean-Philippe Krasso,Jean-Philippe Krasso,3374,Côte d'Ivoire,Center Forward,11
+43073,Yvan Neyou,Yvan Neyou Noupa,2722,Cameroon,Center Defensive Midfield,17
+43705,Abdoul Tapsoba,Abdoul Fessal Tapsoba,4921,Burkina Faso,Left Wing,15
+43779,Calvin Bassey,Calvin Bassey Ughelumba,775,Nigeria,Left Center Back,21
+43920,Mohamed Konaté,Mohamed Konaté,4921,Burkina Faso,Left Center Forward,13
+44225,Osman Bukari,Osman Bukari,4885,Ghana,Right Wing,11
+44307,Cédric Badolo,Cédric Badolo,4921,Burkina Faso,Left Wing,8
+44311,Alieu Fadera,Alieu Fadera,4934,Gambia,Left Midfield,7
+44402,Kings Kangwa,Kings Kangwa,4963,Zambia,Right Center Midfield,22
+44751,Lameck Banda,Lameck Banda,4963,Zambia,Left Wing,9
+44955,Aïssa Laïdouni,Aïssa Bilal Laïdouni,777,Tunisia,Left Defensive Midfield,14
+45047,Alidu Seidu,Alidu Seidu,4885,Ghana,Right Wing Back,2
+45064,Pape Ibnou Bâ,Pape Ibnou Bâ,4932,Mauritania,Center Forward,25
+45466,Gustavo Sangaré,Gustavo Fabrice Sangaré,4921,Burkina Faso,Right Defensive Midfield,20
+45557,Logan Costa,Logan Costa,4924,Cape Verde Islands,Right Center Back,5
+46008,Saidou Sow,Saidou Sow,4892,Guinea,Right Center Back,4
+46258,Azzedine Ounahi,Azzedine Ounahi,788,Morocco,Right Center Midfield,8
+46312,Famana Quizera,Famana Quizera,4894,Guinea-Bissau,Right Wing,18
+47351,Morgan Guilavogui,Morgan Guilavogui,4892,Guinea,Right Wing,7
+47721,Abdulia Sanyang,Abdulia Sanyang,4934,Gambia,Left Center Forward,11
+47762,Jacob Mendy,Jacob Mendy,4934,Gambia,Left Back,15
+47979,Frankie Musonda,Frankie Musonda,4963,Zambia,Left Center Back,4
+48342,Dylan Tavares,Dylan Tavares dos Santos,4924,Cape Verde Islands,Left Back,16
+49763,Souleymane Anne,Souleymane Anne,4932,Mauritania,Right Center Forward,11
+50442,Hamza Rafia,Hamza Rafia,777,Tunisia,Right Midfield,8
+50497,Nicolas Jackson,Nicolas Jackson,787,Senegal,Center Forward,7
+50498,Pape Sarr,Pape Matar Sarr,787,Senegal,Right Defensive Midfield,17
+50501,Ebrima Darboe,Ebrima Darboe,4934,Gambia,Left Center Midfield,24
+50503,Sayfallah Ltaief,Sayfallah Ltaief,777,Tunisia,Left Midfield,18
+50938,Ali Sowe,Ali Sowe,4934,Gambia,Center Forward,26
+50968,Patrick Andrade,Erickson Patrick Correia Andrade,4924,Cape Verde Islands,Left Center Midfield,6
+51494,Haji Mnoga,Haji Mnoga,4953,Tanzania,Right Back,2
+51571,Haythem Jouini,Haythem Jouini,777,Tunisia,Center Forward,9
+51698,Souleymane Doukara,Souleymane Doukara,4932,Mauritania,Left Center Forward,15
+51750,Youssoufou Niakaté,Youssoufou Niakaté,4930,Mali,Right Center Forward,18
+51941,Mohamed Badamosi,Muhammed Badamosi,4934,Gambia,Right Center Forward,23
+52324,Saúl Coco,Saúl Basilio Coco-Bassey Oubiña,4992,Equatorial Guinea,Left Center Back,16
+58878,Boubacar Traore,Boubacar Traore,4930,Mali,Right Center Midfield,24
+62627,Junior Tchamadeu,Junior Tchamadeu,2722,Cameroon,Right Midfield,14
+64607,Zakhele Lerato Lepasa,Zakhele Lerato Lepasa,4976,South Africa,Left Center Forward,17
+64612,Deon Hotto Kavendji,Deon Hotto Kavendji,4980,Namibia,Left Midfield,7
+64629,Thabang Amod Monare,Thabang Amod Monare,4976,South Africa,Right Defensive Midfield,15
+65555,Riaan Hanamub,Riaan Hanamub,4980,Namibia,Left Back,4
+65719,Khuliso Johnson Mudau,Khuliso Johnson Mudau,4976,South Africa,Right Wing Back,20
+65723,Peter Shalulile,Peter Shalulile,4980,Namibia,Center Forward,13
+65726,Themba Zwane,Themba Zwane,4976,South Africa,Center Attacking Midfield,11
+65727,Thapelo James Morena,Thapelo James Morena,4976,South Africa,Right Midfield,23
+65732,Mothobi Mvala,Mothobi Mvala,4976,South Africa,Left Center Back,14
+65733,Aubrey Maphosa Modiba,Aubrey Maphosa Modiba,4976,South Africa,Left Back,6
+65742,Edmilson Gabriel Dove,Edmilson Gabriel Dove,4978,Mozambique,Left Center Back,8
+65750,Terrence Mashego,Terrence Mashego,4976,South Africa,Left Back,3
+65761,Jayden Adams,Jayden Adams,4976,South Africa,Center Attacking Midfield,8
+65837,Ananias Gebhardt,Ananias Gebhardt,4980,Namibia,Left Center Back,3
+65853,Evidence Makgopa,Evidence Makgopa,4976,South Africa,Center Forward,9
+66716,Teboho Mokoena,Teboho Mokoena,4976,South Africa,Right Defensive Midfield,4
+66721,Ronwen Williams,Ronwen Williams,4976,South Africa,Goalkeeper,1
+66725,Oswin Reagan Appollis,Oswin Reagan Appollis,4976,South Africa,Right Wing,7
+66878,Zizo,Ahmed Sayed,774,Egypt,Right Wing,25
+66879,Mohamed Abougabal,Mohamed Abougabal,774,Egypt,Goalkeeper,23
+66886,Mostafa Mohamed,Mostafa Mohamed Ahmed Abdallah,774,Egypt,Center Forward,19
+66887,Hamdi Fathi,Hamdi Fathi,774,Egypt,Left Center Midfield,5
+66892,Mohamed Hany,Mohamed Hany Gamal Eldemerdash,774,Egypt,Right Back,3
+67714,Aliou Dieng,Aliou Dieng,4930,Mali,Right Center Midfield,23
+67728,Mahmoud Hamada,Mahmoud Hamada,774,Egypt,Left Defensive Midfield,20
+67737,Ahmed El Fotouh,Ahmed Mohamed Abo El Fotouh Mohamed,774,Egypt,Left Back,13
+67742,Emam Ashour,Emam Ashour Metwally Abdelghany,774,Egypt,Left Center Midfield,8
+67974,Nkosinathi Sibisi,Nkosinathi Sibisi,4976,South Africa,Left Center Back,19
+68500,Jonas Mendes,Jonas Asvedo Mendes,4894,Guinea-Bissau,Goalkeeper,1
+68505,Roderick Kabwe,Roderick Kabwe,4963,Zambia,Left Back,23
+68749,Seifeddine Jaziri,Seifeddine Jaziri,777,Tunisia,Center Forward,24
+68755,Mostafa Fathi,Mostafa Fathi,774,Egypt,Right Wing,18
+68757,Richard Ofori Antwi,Richard Ofori Antwi,4885,Ghana,Goalkeeper,1
+69442,Nyiko Mobbie,Nyiko Mobbie,4976,South Africa,Right Back,2
+69563,Mohamed Abdel Monem,Mohamed Abdelmonem,774,Egypt,Left Center Back,24
+70093,Gomolemo Grant Kekana,Gomolemo Grant Kekana,4976,South Africa,Right Center Back,18
+70464,Mohanad Mostafa Lasheen,Mohanad Mostafa Lasheen,774,Egypt,Right Defensive Midfield,27
+70682,Marwan Attia,Marwan Attia Fahim Ghallab,774,Egypt,Center Defensive Midfield,14
+70783,Omar Kamal,Omar Kamal Abdel Wahed,774,Egypt,Right Back,4
+70835,Mohamed Hamdy,Mohamed Hamdy Sharaf,774,Egypt,Left Back,12
+74588,Christopher Wooh,Christopher Wooh,2722,Cameroon,Left Center Back,4
+80307,Charles M'Mombwa,Charles M'Mombwa,4953,Tanzania,Center Forward,21
+80484,Iliman Ndiaye,Iliman Ndiaye,787,Senegal,Right Wing,13
+82783,Joslin Kamatuka,Joslin Kamatuka,4980,Namibia,Right Back,14
+82922,Muhammed Sanneh,Muhammed Sanneh,4934,Gambia,Right Back,21
+86067,Himid Mao Mkami,Himid Mao Mkami,4953,Tanzania,Center Defensive Midfield,7
+88123,Bamba Dieng,Cheikh Ahmadou Bamba Mbacke Dieng,787,Senegal,Right Center Forward,9
+90913,Zito Luvumbo,Zito André Sebastião Luvumbo,4901,Angola,Right Wing,15
+95042,Dango Ouattara,Dango Aboubacar Faissal Ouattara,4921,Burkina Faso,Center Forward,7
+99280,Adamo Nagalo,Adamo Nagalo,4921,Burkina Faso,Right Back,4
+102661,Mohamed Dellahi Yali,Mohamed Dellahi Yali,4932,Mauritania,Right Center Back,14
+102667,Hemeya Tanjy,Hemeya Tanjy,4932,Mauritania,Left Midfield,9
+102722,Siyanda Xulu,Siyanda Xulu,4976,South Africa,Right Center Back,5
+102800,Issoufou Dayo,Issoufou Dayo,4921,Burkina Faso,Right Center Back,14
+102816,Mohamed Ali Ben Romdhane,Mohamed Ali Ben Romdhane,777,Tunisia,Left Center Midfield,5
+102992,Djigui Diarra,Djigui Diarra,4930,Mali,Goalkeeper,16
+103207,Loide Augusto,Loide António Augusto,4901,Angola,Right Wing Back,14
+103208,Kialonda Gaspar,Kialonda Gaspar,4901,Angola,Right Center Back,6
+103262,Aishi Manula,Aishi Manula,4953,Tanzania,Goalkeeper,18
+103268,Faisal Salum Abdalla,Faisal Salum Abdalla,4953,Tanzania,Center Attacking Midfield,6
+103269,Bakari Nondo Mwamnyeto,Bakari Nondo Mwamnyeto,4953,Tanzania,Right Center Back,14
+103270,Simon Happygod Msuva,Simon Happygod Msuva,4953,Tanzania,Right Wing,12
+103464,Mohamed Youcef Belaïli,Mohamed Youcef Belaïli,4898,Algeria,Left Wing,8
+103465,Baghdad Bounedjah,Baghdad Bounedjah,4898,Algeria,Center Forward,9
+103797,Denzil Haoseb,Denzil Haoseb,4980,Namibia,Center Forward,2
+103799,Ivan Kamberipa,Ivan Kamberipa,4980,Namibia,Right Back,20
+103801,Marcel Papama,Marcel Papama,4980,Namibia,Right Center Midfield,15
+103803,Prins Menelik Tjiueza,Prins Menelik Tjiueza,4980,Namibia,Right Center Midfield,10
+103804,Absalom Iimbondi,Absalom Iimbondi,4980,Namibia,Right Midfield,11
+103910,Cletous Chama,Cletous Chama,4963,Zambia,Left Center Midfield,17
+105182,Lassine Sinayoko,Lassine Sinayoko,4930,Mali,Left Center Forward,25
+105392,Simon Adingra,Simon Adingra,3374,Côte d'Ivoire,Left Wing,24
+105762,Josete Miranda,José Antonio Miranda Boacho,4992,Equatorial Guinea,Left Wing,17
+105764,Basilio Ndong,Basilio Ndong Owono Nchamaaa,4992,Equatorial Guinea,Left Back,11
+105765,Jesús Owono,Jesús Lázaro Owono Ngua Akeng,4992,Equatorial Guinea,Goalkeeper,1
+105766,Mohamed Hussein Mohamed,Mohamed Hussein Mohamed,4953,Tanzania,Left Back,15
+105769,Mzamiru Yassin,Mzamiru Yassin,4953,Tanzania,Left Defensive Midfield,19
+105921,Mamady Alex Bangré,Mamady Alex Bangré,4921,Burkina Faso,Right Wing,11
+105931,Diney,Edilson Alberto Monteiro Sanches Borges,4924,Cape Verde Islands,Left Center Back,3
+105932,Vózinha,Josimar José Évora Dias,4924,Cape Verde Islands,Goalkeeper,1
+105936,Gilson Tavares,Gilson Benchimol Tavares,4924,Cape Verde Islands,Center Forward,9
+105942,Pablo Ganet,Pablo Ganet Cómitre,4992,Equatorial Guinea,Left Defensive Midfield,22
+105944,Wajdi Kechrida,Wajdi Kechrida,777,Tunisia,Right Back,21
+105946,Henoc Inonga Baka,Henoc Inonga Baka,4881,Congo DR,Left Center Back,2
+105952,Yusupha Bobb,Yusupha Bobb,4934,Gambia,Left Defensive Midfield,27
+106068,Gildo Lourenço,Gildo Lourenço Vilanculos,4978,Mozambique,Left Midfield,18
+106069,Clésio Bauque,Clésio Bauque,4978,Mozambique,Left Wing,10
+106070,Bruno Langa,Bruno Alberto Langa,4978,Mozambique,Left Back,5
+106074,Dominguês,Elias Gaspar Pelembe,4978,Mozambique,Left Attacking Midfield,7
+106082,Lau King,Pachoio Lau Há King,4978,Mozambique,Center Forward,9
+106681,Ismahila Ouédraogo,Ismahila Ouédraogo,4921,Burkina Faso,Left Defensive Midfield,18
+108280,Benedict Chepeshi,Benedict Chepeshi,4963,Zambia,Right Back,3
+108291,Tandi Mwape,Tandi Mwape,4963,Zambia,Right Back,26
+108292,Larry Bwalya,Larry Bwalya,4963,Zambia,Center Attacking Midfield,11
+118368,Amir Richardson,Amir Richardson,788,Morocco,Left Center Midfield,24
+125324,Lloyd Junior Kazapua,Lloyd Junior Kazapua,4980,Namibia,Goalkeeper,1
+125333,Petrus Shitembi,Petrus Shitembi,4980,Namibia,Right Center Midfield,19
+127300,Geny Cipriano Catamo,Geny Cipriano Catamo,4978,Mozambique,Right Attacking Midfield,20
+127547,Stanley Ratifo,Stanley Ratifo,4978,Mozambique,Center Forward,13
+128053,Idrissa Thiam,Idrissa Thiam,4932,Mauritania,Left Wing,10
+128056,Yassin Cheikh El Welly,Yassin Cheikh El Welly,4932,Mauritania,Right Back,17
+128793,Taha Yassine Khenissi,Taha Yassine Khenissi,777,Tunisia,Center Forward,11
+128881,Mabululu,Cristóvão Paciência Mabululo,4901,Angola,Center Forward,19
+129475,Nené,Feliciano João Jone,4978,Mozambique,Left Defensive Midfield,4
+131849,Antoine Conte,Antoine Conte,4892,Guinea,Right Back,2
+132461,Mohamed Elias Achouri,Mohamed Elias Achouri,777,Tunisia,Right Wing,27
+132711,Sekou Oumar Sylla,Sekou Oumar Sylla,4892,Guinea,Left Back,21
+132800,Kevin Pina,Kevin Lenini Gonçalves Pereira de Pina,4924,Cape Verde Islands,Center Defensive Midfield,26
+133003,Mihlali Samson Mayambela,Mihlali Samson Mayambela,4976,South Africa,Left Midfield,21
+133038,João Paulo Fernandes,João Paulo Moreira Fernandes,4924,Cape Verde Islands,Left Back,8
+133549,Seydouba Cisse,Seydouba Cisse,4892,Guinea,Left Defensive Midfield,15
+135004,Lubeni Haukongo,Lubeni Haukongo,4980,Namibia,Left Center Back,21
+135043,Enzo Gianni Tchato Mbiayi,Enzo Gianni Tchato Mbiayi,2722,Cameroon,Right Wing Back,26
+135849,Neblú,Adilson Cipriano da Cruz,4901,Angola,Goalkeeper,22
+135851,Tó Carneiro,Augusto de Jesus Corte Real Carneiro,4901,Angola,Left Back,13
+136055,Novatus Dismas Miroshi,Novatus Dismas Miroshi,4953,Tanzania,Left Defensive Midfield,20
+136057,Mudathiri Yahya,Mudathiri Yahya,4953,Tanzania,Right Center Midfield,3
+136064,Ernan Alberto Siluane,Ernan Alberto Siluane,4978,Mozambique,Goalkeeper,1
+136069,Shaquille Momad Nangy,Shaquille Momad Nangy,4978,Mozambique,Left Defensive Midfield,23
+136074,Karim Konaté,Karim Konaté,3374,Côte d'Ivoire,Left Center Forward,10
+136115,El Hacen Houeibib,El Hacen Houeibib,4932,Mauritania,Right Center Back,21
+136296,Bechir Ben Said,Bechir Ben Said,777,Tunisia,Goalkeeper,22
+136298,Santiago Eneme,Santiago Eneme Bocari,4992,Equatorial Guinea,Left Wing,20
+136312,Zini,Ambrosini Antonio Cabaça Salvador,4901,Angola,Center Attacking Midfield,9
+136404,Vetunuavi Charles Hambira,Vetunuavi Charles Hambira,4980,Namibia,Left Center Midfield,5
+136406,Aprocious Petrus,Aprocious Petrus,4980,Namibia,Right Defensive Midfield,18
+136411,Óscar Siafá,Juan José Óscar Siafá Etoha,4992,Equatorial Guinea,Center Forward,27
+136414,Luis Nlavo,Luis Miguel Nlavo Asue,4992,Equatorial Guinea,Right Midfield,19
+136417,Alex Balboa,Alejandro Balboa Bandeira,4992,Equatorial Guinea,Right Defensive Midfield,14
+136596,Lusajo Mwaikenda,Lusajo Mwaikenda,4953,Tanzania,Right Back,16
+136948,Yacouba Nasser Djiga,Yacouba Nasser Djiga,4921,Burkina Faso,Right Back,5
+138493,Morice Michael Abraham,Morice Michael Abraham,4953,Tanzania,Right Wing,8
+138875,Djibril Cheick Ouattara,Djibril Cheick Ouattara,4921,Burkina Faso,Left Wing,2
+141358,Mohamed El Amine Amoura,Mohamed El Amine Amoura,4898,Algeria,Left Wing,18
+143165,Mohamed Chibi,Mohamed Chibi,788,Morocco,Left Back,27
+143863,Franculino Djú,Franculino Gluda Djú,4894,Guinea-Bissau,Center Forward,3
+145058,Eddie Afonso,Eddie Marcos Melo Afonso,4901,Angola,Right Back,21
+145622,Denis Kibu,Denis Kibu,4953,Tanzania,Left Wing,22
+146933,Bodda Mouhsine,Bodda Mouhsine,4932,Mauritania,Right Defensive Midfield,8
+149714,Abde Ezzalzouli,Abdessamad Ezzalzouli,788,Morocco,Left Midfield,16
+151066,Kelvin Kapumbu,Kelvin Kapumbu,4963,Zambia,Right Defensive Midfield,15
+156734,Bilal El Khannous,Bilal El Khannous,788,Morocco,Left Center Midfield,23
+159949,Wendell Rudath,Wendell Rudath,4980,Namibia,Left Wing,17
+160904,Miguel Changa Chaiwa,Miguel Changa Chaiwa,4963,Zambia,Right Defensive Midfield,5
+160943,Mohamed Amine Tougai,Mohamed Amine Tougai,4898,Algeria,Left Center Back,4
+161718,Ivane Carminio Francisco Urrubal,Ivane Carminio Francisco Urrubal,4978,Mozambique,Goalkeeper,22
+162132,Kamory Doumbia,Kamory Doumbia,4930,Mali,Center Attacking Midfield,26
+176683,Ibrahim Diakité,Ibrahim Diakité,4892,Guinea,Right Back,12
+179524,Cuca,Carlos Miguel Pereira Fernandes,4924,Cape Verde Islands,Right Defensive Midfield,13
+182573,Ibrahim Kone,Ibrahim Kone,4892,Guinea,Goalkeeper,22
+185579,Baboucarr Gaye,Baboucarr Gaye,4934,Gambia,Goalkeeper,18
+188885,Oumar Ngom,Oumar Ngom,4932,Mauritania,Right Center Midfield,26
+189348,Frank Magri,Frank Magri,2722,Cameroon,Center Forward,9
+196109,Ousmane Diomande,Ousmane Diomande,3374,Côte d'Ivoire,Right Center Back,2
+199653,Nene Dorgeles,Nene Dorgeles,4930,Mali,Left Midfield,27
+202037,Thapelo Maseko,Thapelo Maseko,4976,South Africa,Left Midfield,12
+212489,Oumar Diakité,Oumar Diakité,3374,Côte d'Ivoire,Right Wing,14
+217047,Fares Chaïbi,Fares Chaïbi,4898,Algeria,Right Center Midfield,17
+225436,Abdoul Razack Guiebre,Abdoul Razack Guiebre,4921,Burkina Faso,Left Back,3
+225437,Stephane Ki,Stephane Aziz Ki,4921,Burkina Faso,Center Attacking Midfield,17
+233463,Ernest Appiah Nuamah,Ernest Appiah Nuamah,4885,Ghana,Right Wing,24
+263057,Amadú,Amade Momade,4978,Mozambique,Right Wing,6
+264381,Kennedy Amutenya,Kennedy Amutenya,4980,Namibia,Right Center Back,12
+264954,Lamine Ba,Lamine Ba,4932,Mauritania,Left Center Back,5
+264956,Ibrahima Keita,Ibrahima Keita,4932,Mauritania,Right Back,20
+270407,Kinito,Joaquim Marcos Cunga Balanga,4901,Angola,Left Center Back,5
+286708,Kévin Daniel Van Den Kerkhof,Kévin Daniel Van Den Kerkhof,4898,Algeria,Right Back,3
+297356,Brian Jephte Bayeye,Brian Jephte Bayeye,4881,Congo DR,Right Back,4
+300924,Sacha Jordan Bansé,Sacha Jordan Bansé,4921,Burkina Faso,Center Defensive Midfield,6
+307271,Yankuba Minteh,Yankuba Minteh,4934,Gambia,Left Midfield,20
+315395,Bakari Camara,Bakari Camara,4932,Mauritania,Right Midfield,12
+341163,Omaré Gassama,Omaré Gassama,4932,Mauritania,Left Defensive Midfield,4
+349594,Noé Ela Mangue,Noé Ela Mangue,4992,Equatorial Guinea,Center Forward,18
+358410,Stanley Bobo Nwabali,Stanley Bobo Nwabali,775,Nigeria,Goalkeeper,23
+363738,Nito Gomes,Fernando de Lacerda Gomes,4894,Guinea-Bissau,Right Defensive Midfield,6
+380983,Zé Turbo,José Correia,4894,Guinea-Bissau,Right Wing,24
+389092,Ibrahim Abdallah Hamad,Ibrahim Abdallah Hamad,4953,Tanzania,Left Center Back,4
+389156,Tresford Lawrence Mulenga,Tresford Lawrence Mulenga,4963,Zambia,Goalkeeper,16
+389291,Fiston Kalala Mayele,Fiston Kalala Mayele,4881,Congo DR,Center Forward,19
+389292,Khadim Diaw,Khadim Diaw,4932,Mauritania,Left Back,2
+389294,Nouh Mohamed El Abd,Nouh Mohamed El Abd,4932,Mauritania,Right Center Back,13
+389316,Ngero Kaanjuka Katua,Ngero Kaanjuka Katua,4980,Namibia,Left Center Midfield,6
+389319,Muzeu Bethuel,Muzeu Bethuel,4980,Namibia,Right Midfield,9
+389328,Gilberto,Deivi Miguel Vieira,4901,Angola,Right Wing,7
+389641,Domingos Macandza,Domingos João Macandza,4978,Mozambique,Right Back,14
+389675,Kennedy Musonda,Kennedy Musonda,4963,Zambia,Center Attacking Midfield,25
+389784,Manuel Keliano,Manuel Keliano,4901,Angola,Right Center Midfield,4
+391434,Marciano Sanca,Marciano Sanca Tchami,4894,Guinea-Bissau,Left Wing,11
+392153,Lamine Camara,Lamine Camara,787,Senegal,Right Center Midfield,25
+404676,Karim Cissé,Karim Cissé,4892,Guinea,Center Attacking Midfield,14
+406457,Facinet Conte,Facinet Conte,4892,Guinea,Left Midfield,25
+408160,Dramane Salou,Dramane Salou,4921,Burkina Faso,Right Center Midfield,26
+408457,Idrissa Gueye,Idrissa Gueye,787,Senegal,Left Defensive Midfield,5
+408674,Aboubacar Traoré,Aboubacar Traoré,4930,Mali,Left Defensive Midfield,24
+408824,Signori António,Signori Dominique Nymi António,4901,Angola,Goalkeeper,1
+416889,Uetuuru Kambato,Uetuuru Kambato,4980,Namibia,Right Midfield,8
+416907,Sidi Bouna Sidi Amar,Sidi Bouna Sidi Amar,4932,Mauritania,Right Midfield,23
+417067,Nanani,Infren David da Conceição Matola,4978,Mozambique,Right Back,2
+417068,João Bonde,João José Jone Bonde,4978,Mozambique,Right Center Midfield,11
+422691,José Nabil,José Nabil Onva Adjugu,4992,Equatorial Guinea,Right Wing,26
+482851,Esteban Fernández,Esteban Orozco Fernández,4992,Equatorial Guinea,Right Center Back,21

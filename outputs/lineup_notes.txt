@@ -1,0 +1,21 @@
+LINEUP NOTES (StatsBomb lineup files contain a few inconsistent records)
+======================================================================
+A. Conflicts auto-resolved (verify against match reports):
+  match 3920400: ignored Habib Diallo's return ('Player On') at elapsed 84.7 min for Senegal because 11 players were already on the pitch
+  match 3920410: ignored Majeed Ashimeru's return ('Player On') at elapsed 36.6 min for Ghana because 11 players were already on the pitch
+
+B. Players with no explicit entry record (assumed on from first segment):
+  match 3920384: Serge Aurier (Côte d'Ivoire) has no explicit entry record; assumed on the pitch from elapsed 49.2 min
+  match 3920409: Franculino Djú (Guinea-Bissau) has no explicit entry record; assumed on the pitch from elapsed 49.3 min
+  match 3920411: Mostafa Fathi (Egypt) has no explicit entry record; assumed on the pitch from elapsed 106.7 min
+  match 3920411: Mohamed Hamdy (Egypt) has no explicit entry record; assumed on the pitch from elapsed 106.7 min
+  match 3920418: Meschak Elia (Congo DR) has no explicit entry record; assumed on the pitch from elapsed 54.0 min
+  match 3922241: Yassin Cheikh El Welly (Mauritania) has no explicit entry record; assumed on the pitch from elapsed 81.3 min
+  match 3922242: Idrissa Gueye (Senegal) has no explicit entry record; assumed on the pitch from elapsed 130.8 min
+  match 3922659: Oumar Diakité (Côte d'Ivoire) has no explicit entry record; assumed on the pitch from elapsed 119.3 min
+  match 3922658: Bebé (Cape Verde Islands) has no explicit entry record; assumed on the pitch from elapsed 103.3 min
+  match 3922658: Laros Duarte (Cape Verde Islands) has no explicit entry record; assumed on the pitch from elapsed 116.1 min
+  match 3922658: Willy Afonso Semedo Johnson (Cape Verde Islands) has no explicit entry record; assumed on the pitch from elapsed 103.3 min
+  match 3922658: Gilson Tavares (Cape Verde Islands) has no explicit entry record; assumed on the pitch from elapsed 116.1 min
+  match 3922658: Mihlali Samson Mayambela (South Africa) has no explicit entry record; assumed on the pitch from elapsed 116.7 min
+  match 3922837: Alhassan Yusuf Abdullahi (Nigeria) has no explicit entry record; assumed on the pitch from elapsed 110.8 min

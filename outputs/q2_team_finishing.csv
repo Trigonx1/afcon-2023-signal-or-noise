@@ -1,0 +1,25 @@
+﻿team_id,team,matches,shots,goals,xg,sfr,sfr_ci_low,sfr_ci_high,verdict,goals_minus_xg
+4992,Equatorial Guinea,4,30,9,3.3748,2.6668,1.2194,5.0624,above expected (outside 95%),5.6252
+4953,Tanzania,3,12,1,0.4609,2.1699,0.0549,12.0899,consistent with chance,0.5391
+787,Senegal,4,44,9,5.2125,1.7266,0.7895,3.2777,consistent with chance,3.7875
+4978,Mozambique,3,27,3,1.8153,1.6526,0.3408,4.8296,consistent with chance,1.1847
+4963,Zambia,3,25,2,1.3336,1.4997,0.1816,5.4175,consistent with chance,0.6664
+2722,Cameroon,4,37,4,2.7955,1.4308,0.3899,3.6635,consistent with chance,1.2045
+4885,Ghana,3,23,3,2.1401,1.4018,0.2891,4.0968,consistent with chance,0.8599
+4901,Angola,5,53,8,5.8827,1.3599,0.5871,2.6796,consistent with chance,2.1173
+4924,Cape Verde Islands,5,74,7,6.0242,1.162,0.4672,2.3941,consistent with chance,0.9758
+774,Egypt,4,69,5,4.7029,1.0632,0.3452,2.4811,consistent with chance,0.2971
+3374,Côte d'Ivoire,7,96,7,6.8216,1.0262,0.4126,2.1143,consistent with chance,0.1784
+4930,Mali,5,63,5,5.0683,0.9865,0.3203,2.3022,consistent with chance,-0.0683
+4976,South Africa,7,73,5,5.1374,0.9733,0.316,2.2713,consistent with chance,-0.1374
+4932,Mauritania,4,51,3,3.7323,0.8038,0.1658,2.3491,consistent with chance,-0.7323
+4934,Gambia,3,34,2,2.5594,0.7814,0.0946,2.8228,consistent with chance,-0.5594
+4898,Algeria,3,47,3,3.8814,0.7729,0.1594,2.2588,consistent with chance,-0.8814
+788,Morocco,4,57,5,7.0833,0.7059,0.2292,1.6473,consistent with chance,-2.0833
+4892,Guinea,5,42,3,4.6109,0.6506,0.1342,1.9014,consistent with chance,-1.6109
+775,Nigeria,7,79,5,8.1875,0.6107,0.1983,1.4251,consistent with chance,-3.1875
+4894,Guinea-Bissau,3,34,1,1.9155,0.5221,0.0132,2.9087,consistent with chance,-0.9155
+4881,Congo DR,7,90,5,9.8202,0.5092,0.1653,1.1882,consistent with chance,-4.8202
+777,Tunisia,3,25,1,2.4184,0.4135,0.0105,2.3038,consistent with chance,-1.4184
+4921,Burkina Faso,4,43,1,2.5004,0.3999,0.0101,2.2283,consistent with chance,-1.5004
+4980,Namibia,4,34,1,3.7055,0.2699,0.0068,1.5036,consistent with chance,-2.7055

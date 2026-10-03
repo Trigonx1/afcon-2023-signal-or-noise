@@ -1,0 +1,8 @@
+﻿match_id,match_date,stage,opponent,goals_for,goals_against,xg,xg_against,goal_diff,xg_diff,goal_diff_minus_xg_diff,points,expected_points,went_to_shootout
+3920386,2024-01-14,Group Stage,Equatorial Guinea,1.0,1.0,2.6873,0.3321,0.0,2.3552,-2.3552,1,2.7079,False
+3920398,2024-01-18,Group Stage,Côte d'Ivoire,1.0,0.0,1.5756,0.6072,1.0,0.9683,0.0317,3,2.0776,False
+3920409,2024-01-22,Group Stage,Guinea-Bissau,1.0,0.0,0.9708,0.3515,1.0,0.6193,0.3807,3,1.875,False
+3922238,2024-01-27,Round of 16,Cameroon,2.0,0.0,1.3097,0.3006,2.0,1.0091,0.9909,3,2.1747,False
+3922321,2024-02-02,Quarter-finals,Angola,1.0,0.0,1.4617,0.955,1.0,0.5067,0.4933,3,1.7312,False
+3922837,2024-02-07,Semi-finals,South Africa,1.0,1.0,1.4913,1.7585,0.0,-0.2672,0.2672,1,1.2154,True
+3923881,2024-02-11,Final,Côte d'Ivoire,1.0,2.0,0.2582,1.4139,-1.0,-1.1557,0.1557,0,0.4597,False

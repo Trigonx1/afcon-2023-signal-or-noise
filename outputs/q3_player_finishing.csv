@@ -1,0 +1,330 @@
+﻿player_id,player,team,primary_position,minutes,shots,goals,xg,goals_minus_xg,sfr,sfr_ci_low,sfr_ci_high,verdict,sufficient_exposure
+11277,Victor Osimhen,Nigeria,Center Forward,710.5967,24.0,1.0,3.1126,-2.1126,0.3213,0.0081,1.7901,consistent with chance,1
+7294,Yoane Wissa,Congo DR,Left Wing,584.6037,19.0,1.0,2.6747,-1.6747,0.3739,0.0095,2.0831,consistent with chance,1
+13581,Emilio Nsue,Equatorial Guinea,Center Forward,374.0216,8.0,5.0,2.1686,2.8314,2.3057,0.7487,5.3807,consistent with chance [low minutes],0
+103465,Baghdad Bounedjah,Algeria,Center Forward,283.26,9.0,3.0,1.8909,1.1091,1.5866,0.3272,4.6366,consistent with chance [low minutes],0
+66886,Mostafa Mohamed,Egypt,Center Forward,453.5081,13.0,3.0,1.7233,1.2767,1.7408,0.359,5.0874,consistent with chance [low minutes],0
+18516,Habib Diallo,Senegal,Center Forward,313.3999,5.0,2.0,1.6376,0.3624,1.2213,0.1479,4.4116,consistent with chance [low minutes],0
+16001,Garry Rodrigues,Cape Verde Islands,Left Wing,228.5964,9.0,1.0,1.5398,-0.5398,0.6494,0.0164,3.6183,consistent with chance [low minutes],0
+105182,Lassine Sinayoko,Mali,Left Center Forward,421.0534,9.0,3.0,1.5256,1.4744,1.9664,0.4055,5.7468,consistent with chance [low minutes],0
+10577,Gelson,Angola,Left Wing,419.6681,9.0,4.0,1.5217,2.4783,2.6287,0.7162,6.7304,consistent with chance [low minutes],0
+6301,Youssef En-Nesyri,Morocco,Center Forward,282.3315,8.0,1.0,1.5121,-0.5121,0.6613,0.0167,3.6847,consistent with chance [low minutes],0
+65723,Peter Shalulile,Namibia,Center Forward,395.7572,10.0,0.0,1.3733,-1.3733,0.0,0.0,2.6861,consistent with chance [low minutes],0
+5229,Ayoub El Kaabi,Morocco,Center Forward,146.9089,6.0,0.0,1.3322,-1.3322,0.0,0.0,2.7689,consistent with chance [low minutes],0
+3447,Ademola Lookman,Nigeria,Left Wing,597.4042,8.0,3.0,1.3196,1.6804,2.2734,0.4688,6.6437,consistent with chance,1
+35684,Meschak Elia,Congo DR,Right Wing,443.5408,6.0,1.0,1.2955,-0.2955,0.7719,0.0195,4.3007,consistent with chance [low minutes],0
+65853,Evidence Makgopa,South Africa,Center Forward,623.7404,12.0,1.0,1.2696,-0.2696,0.7877,0.0199,4.3885,consistent with chance,1
+128881,Mabululu,Angola,Center Forward,433.589,13.0,2.0,1.1496,0.8504,1.7398,0.2107,6.2848,consistent with chance [low minutes],0
+136312,Zini,Angola,Center Attacking Midfield,175.0971,7.0,1.0,1.1476,-0.1476,0.8713,0.0221,4.8548,consistent with chance [low minutes],0
+47351,Morgan Guilavogui,Guinea,Right Wing,300.9809,6.0,0.0,1.1419,-1.1419,0.0,0.0,3.2304,consistent with chance [low minutes],0
+8673,Sébastien Haller,Côte d'Ivoire,Center Forward,330.6301,10.0,2.0,1.1002,0.8998,1.8178,0.2201,6.5667,consistent with chance [low minutes],0
+13329,Silas Katompa Mvumpa,Congo DR,Left Wing,272.1096,4.0,1.0,1.0624,-0.0624,0.9412,0.0238,5.2442,consistent with chance [low minutes],0
+2941,Ismaïla Sarr,Senegal,Right Wing,352.8756,7.0,1.0,1.0185,-0.0185,0.9819,0.0249,5.4707,consistent with chance [low minutes],0
+8454,Mohamed Bayo,Guinea,Right Center Forward,415.4719,8.0,2.0,0.9862,1.0138,2.0279,0.2456,7.3255,consistent with chance [low minutes],0
+3248,Hamari Traoré,Mali,Right Back,539.3127,3.0,1.0,0.9214,0.0786,1.0853,0.0275,6.0468,consistent with chance,1
+45064,Pape Ibnou Bâ,Mauritania,Center Forward,119.1768,3.0,0.0,0.8938,-0.8938,0.0,0.0,4.1271,consistent with chance [low minutes],0
+3551,Karl Toko Ekambi,Cameroon,Right Wing,308.6022,6.0,1.0,0.8064,0.1936,1.2401,0.0314,6.9093,consistent with chance [low minutes],0
+33395,Ransford Königsdörffer,Ghana,Center Attacking Midfield,65.8486,3.0,0.0,0.7753,-0.7753,0.0,0.0,4.7578,consistent with chance [low minutes],0
+29367,Percy Tau,South Africa,Right Wing,622.9988,10.0,0.0,0.7648,-0.7648,0.0,0.0,4.8235,consistent with chance,1
+3629,Sadio Mané,Senegal,Left Wing,443.3156,6.0,1.0,0.7606,0.2394,1.3148,0.0333,7.3253,consistent with chance [low minutes],0
+3044,Chancel Mbemba,Congo DR,Right Center Back,740.3498,5.0,1.0,0.7412,0.2588,1.3492,0.0342,7.5175,consistent with chance,1
+8050,Tarik Tissoudali,Morocco,Center Forward,22.8509,3.0,0.0,0.7243,-0.7243,0.0,0.0,5.0928,consistent with chance [low minutes],0
+10598,Jovane Cabral,Cape Verde Islands,Center Forward,346.0904,9.0,0.0,0.7241,-0.7241,0.0,0.0,5.0946,consistent with chance [low minutes],0
+33401,Amine Adli,Morocco,Right Wing,166.4099,5.0,0.0,0.7144,-0.7144,0.0,0.0,5.1633,consistent with chance [low minutes],0
+389291,Fiston Kalala Mayele,Congo DR,Center Forward,159.5166,5.0,0.0,0.7125,-0.7125,0.0,0.0,5.1774,consistent with chance [low minutes],0
+4412,Samuel Moutoussamy,Congo DR,Left Defensive Midfield,740.6165,7.0,0.0,0.7094,-0.7094,0.0,0.0,5.2003,consistent with chance,1
+43920,Mohamed Konaté,Burkina Faso,Left Center Forward,262.8432,8.0,1.0,0.7067,0.2933,1.415,0.0358,7.884,consistent with chance [low minutes],0
+50938,Ali Sowe,Gambia,Center Forward,168.7499,4.0,0.0,0.6982,-0.6982,0.0,0.0,5.2832,consistent with chance [low minutes],0
+40761,Omar Marmoush,Egypt,Left Wing,267.9589,8.0,1.0,0.696,0.304,1.4369,0.0364,8.0058,consistent with chance [low minutes],0
+43072,Jean-Philippe Krasso,Côte d'Ivoire,Center Forward,277.5015,7.0,1.0,0.6699,0.3301,1.4928,0.0378,8.3173,consistent with chance [low minutes],0
+8774,Amadou Haïdara,Mali,Left Center Midfield,303.3165,9.0,0.0,0.6687,-0.6687,0.0,0.0,5.5163,consistent with chance [low minutes],0
+23910,Youssef Msakni,Tunisia,Left Wing,228.5509,6.0,0.0,0.6598,-0.6598,0.0,0.0,5.5905,consistent with chance [low minutes],0
+389328,Gilberto,Angola,Right Wing,288.1039,6.0,1.0,0.6594,0.3406,1.5166,0.0384,8.4498,consistent with chance [low minutes],0
+6862,Cédric Bakambu,Congo DR,Center Forward,411.9069,8.0,0.0,0.6583,-0.6583,0.0,0.0,5.6039,consistent with chance [low minutes],0
+40485,Ryan Mendes,Cape Verde Islands,Right Wing,413.1926,5.0,1.0,0.6444,0.3556,1.5519,0.0393,8.6464,consistent with chance [low minutes],0
+51571,Haythem Jouini,Tunisia,Center Forward,112.398,3.0,0.0,0.6321,-0.6321,0.0,0.0,5.8358,consistent with chance [low minutes],0
+7791,Seko Fofana,Côte d'Ivoire,Left Center Midfield,680.5378,17.0,1.0,0.6193,0.3807,1.6149,0.0409,8.9974,consistent with chance,1
+43779,Calvin Bassey,Nigeria,Left Center Back,658.4066,2.0,0.0,0.6112,-0.6112,0.0,0.0,6.0358,consistent with chance,1
+23785,Théo Bongonda Mbul'Ofeko Batombo,Congo DR,Center Attacking Midfield,474.1838,10.0,0.0,0.6038,-0.6038,0.0,0.0,6.1093,consistent with chance [low minutes],0
+133003,Mihlali Samson Mayambela,South Africa,Left Midfield,199.1718,7.0,0.0,0.6035,-0.6035,0.0,0.0,6.1126,consistent with chance [low minutes],0
+12496,Christian Kouamé,Côte d'Ivoire,Right Wing,241.1988,4.0,0.0,0.6011,-0.6011,0.0,0.0,6.1367,consistent with chance [low minutes],0
+7753,Jamiro Monteiro,Cape Verde Islands,Center Attacking Midfield,407.5288,3.0,1.0,0.5952,0.4048,1.6801,0.0425,9.3609,consistent with chance [low minutes],0
+49763,Souleymane Anne,Mauritania,Right Center Forward,232.1484,4.0,0.0,0.5828,-0.5828,0.0,0.0,6.3297,consistent with chance [low minutes],0
+7023,Franck Kessié,Côte d'Ivoire,Right Center Midfield,699.1685,9.0,1.0,0.5721,0.4279,1.7479,0.0443,9.7386,consistent with chance,1
+10573,Jonathan Buatu,Angola,Right Center Back,404.6557,3.0,0.0,0.568,-0.568,0.0,0.0,6.4945,consistent with chance [low minutes],0
+65726,Themba Zwane,South Africa,Center Attacking Midfield,542.2711,3.0,2.0,0.5633,1.4367,3.5505,0.43,12.8256,consistent with chance,1
+31949,Zaidu Sanusi,Nigeria,Left Wing Back,462.4808,6.0,0.0,0.5603,-0.5603,0.0,0.0,6.584,consistent with chance [low minutes],0
+189348,Frank Magri,Cameroon,Center Forward,365.1148,6.0,1.0,0.5564,0.4436,1.7971,0.0455,10.013,consistent with chance [low minutes],0
+24826,Simon Banza,Congo DR,Center Forward,210.6294,5.0,0.0,0.552,-0.552,0.0,0.0,6.6832,consistent with chance [low minutes],0
+162132,Kamory Doumbia,Mali,Center Attacking Midfield,431.3044,9.0,0.0,0.5369,-0.5369,0.0,0.0,6.8706,consistent with chance [low minutes],0
+23892,Aboubakary Koita,Mauritania,Center Attacking Midfield,392.9924,12.0,1.0,0.5169,0.4831,1.9348,0.049,10.78,consistent with chance [low minutes],0
+105936,Gilson Tavares,Cape Verde Islands,Center Forward,137.5565,6.0,1.0,0.5151,0.4849,1.9416,0.0492,10.8177,consistent with chance [low minutes],0
+25759,Abdoulaye Seck,Senegal,Right Center Back,116.9685,5.0,1.0,0.5128,0.4872,1.9501,0.0494,10.8652,consistent with chance [low minutes],0
+7900,Bebé,Cape Verde Islands,Center Forward,244.9171,16.0,1.0,0.5082,0.4918,1.9677,0.0498,10.9633,consistent with chance [low minutes],0
+8785,Patson Daka,Zambia,Left Center Forward,301.7845,5.0,1.0,0.504,0.496,1.984,0.0502,11.0542,consistent with chance [low minutes],0
+46258,Azzedine Ounahi,Morocco,Right Center Midfield,368.1036,7.0,1.0,0.4967,0.5033,2.0134,0.051,11.218,consistent with chance [low minutes],0
+39559,Aguibou Camara,Guinea,Center Attacking Midfield,505.6393,5.0,1.0,0.4931,0.5069,2.0279,0.0513,11.2987,consistent with chance,1
+6648,Aïssa Mandi,Algeria,Right Center Back,314.1448,3.0,0.0,0.4665,-0.4665,0.0,0.0,7.9079,consistent with chance [low minutes],0
+18163,Moses Simon,Nigeria,Right Wing,511.1974,5.0,0.0,0.4594,-0.4594,0.0,0.0,8.0294,consistent with chance,1
+103804,Absalom Iimbondi,Namibia,Right Midfield,249.4606,1.0,0.0,0.4592,-0.4592,0.0,0.0,8.0329,consistent with chance [low minutes],0
+3639,Georges-Kevin N'Koudou,Cameroon,Left Wing,411.5619,6.0,0.0,0.4555,-0.4555,0.0,0.0,8.0993,consistent with chance [low minutes],0
+66878,Zizo,Egypt,Right Wing,262.331,10.0,0.0,0.4466,-0.4466,0.0,0.0,8.2605,consistent with chance [low minutes],0
+5261,Trézéguet,Egypt,Left Wing,245.6492,6.0,1.0,0.4361,0.5639,2.293,0.0581,12.7759,consistent with chance [low minutes],0
+103803,Prins Menelik Tjiueza,Namibia,Right Center Midfield,258.5667,2.0,0.0,0.4354,-0.4354,0.0,0.0,8.4722,consistent with chance [low minutes],0
+7713,Evan N'Dicka,Côte d'Ivoire,Left Center Back,776.4782,7.0,0.0,0.4278,-0.4278,0.0,0.0,8.6226,consistent with chance,1
+391434,Marciano Sanca,Guinea-Bissau,Left Wing,85.5963,2.0,0.0,0.4251,-0.4251,0.0,0.0,8.6779,consistent with chance [low minutes],0
+406457,Facinet Conte,Guinea,Left Midfield,182.2508,2.0,0.0,0.4204,-0.4204,0.0,0.0,8.7757,consistent with chance [low minutes],0
+4416,Max Gradel,Côte d'Ivoire,Right Wing,327.6319,6.0,0.0,0.4168,-0.4168,0.0,0.0,8.8504,consistent with chance [low minutes],0
+4471,Ablie Jallow,Gambia,Center Attacking Midfield,187.8335,5.0,1.0,0.4164,0.5836,2.4016,0.0608,13.381,consistent with chance [low minutes],0
+65727,Thapelo James Morena,South Africa,Right Midfield,408.6119,5.0,0.0,0.4161,-0.4161,0.0,0.0,8.8652,consistent with chance [low minutes],0
+136074,Karim Konaté,Côte d'Ivoire,Left Center Forward,82.2142,3.0,0.0,0.4143,-0.4143,0.0,0.0,8.9032,consistent with chance [low minutes],0
+17033,Mohammed Kudus,Ghana,Center Attacking Midfield,195.9626,9.0,2.0,0.4098,1.5902,4.8805,0.591,17.6299,consistent with chance [low minutes],0
+5219,Romain Saïss,Morocco,Left Center Back,316.4863,1.0,1.0,0.4062,0.5938,2.462,0.0623,13.7176,consistent with chance [low minutes],0
+105392,Simon Adingra,Côte d'Ivoire,Left Wing,312.4674,6.0,1.0,0.4053,0.5947,2.4673,0.0625,13.7468,consistent with chance [low minutes],0
+10844,Fredy,Angola,Right Defensive Midfield,407.8181,4.0,0.0,0.3973,-0.3973,0.0,0.0,9.2856,consistent with chance [low minutes],0
+416907,Sidi Bouna Sidi Amar,Mauritania,Right Midfield,278.7852,7.0,1.0,0.396,0.604,2.5251,0.0639,14.0691,consistent with chance [low minutes],0
+106069,Clésio Bauque,Mozambique,Left Wing,56.235,1.0,1.0,0.3828,0.6172,2.6122,0.0661,14.5545,consistent with chance [low minutes],0
+389319,Muzeu Bethuel,Namibia,Right Midfield,227.6854,3.0,0.0,0.3823,-0.3823,0.0,0.0,9.6492,consistent with chance [low minutes],0
+66716,Teboho Mokoena,South Africa,Right Defensive Midfield,760.3881,18.0,1.0,0.3772,0.6228,2.6512,0.0671,14.7717,consistent with chance,1
+264381,Kennedy Amutenya,Namibia,Right Center Back,364.1042,6.0,0.0,0.3746,-0.3746,0.0,0.0,9.8463,consistent with chance [low minutes],0
+64612,Deon Hotto Kavendji,Namibia,Left Midfield,400.4296,4.0,1.0,0.3725,0.6275,2.6845,0.068,14.9573,consistent with chance [low minutes],0
+132711,Sekou Oumar Sylla,Guinea,Left Back,327.3721,4.0,0.0,0.3673,-0.3673,0.0,0.0,10.044,consistent with chance [low minutes],0
+65719,Khuliso Johnson Mudau,South Africa,Right Wing Back,692.1461,2.0,0.0,0.3631,-0.3631,0.0,0.0,10.1595,consistent with chance,1
+3647,Alex Iwobi,Nigeria,Left Defensive Midfield,569.9896,7.0,0.0,0.3589,-0.3589,0.0,0.0,10.2773,consistent with chance,1
+24467,Frank Onyeka,Nigeria,Right Defensive Midfield,666.8983,6.0,0.0,0.3587,-0.3587,0.0,0.0,10.2828,consistent with chance,1
+50442,Hamza Rafia,Tunisia,Right Midfield,151.9236,1.0,1.0,0.3587,0.6413,2.7881,0.0706,15.5341,consistent with chance [low minutes],0
+4063,Ahmed Hegazy,Egypt,Right Center Back,453.4914,2.0,0.0,0.3575,-0.3575,0.0,0.0,10.32,consistent with chance [low minutes],0
+380983,Zé Turbo,Guinea-Bissau,Right Wing,68.1863,4.0,1.0,0.3528,0.6472,2.8344,0.0718,15.7921,consistent with chance [low minutes],0
+149714,Abde Ezzalzouli,Morocco,Left Midfield,210.3823,4.0,0.0,0.3494,-0.3494,0.0,0.0,10.5587,consistent with chance [low minutes],0
+95042,Dango Ouattara,Burkina Faso,Center Forward,125.5235,4.0,0.0,0.3457,-0.3457,0.0,0.0,10.6693,consistent with chance [low minutes],0
+212489,Oumar Diakité,Côte d'Ivoire,Right Wing,224.6364,3.0,1.0,0.3457,0.6543,2.8924,0.0732,16.1152,consistent with chance [low minutes],0
+9102,Serhou Guirassy,Guinea,Left Center Forward,132.2422,4.0,0.0,0.3453,-0.3453,0.0,0.0,10.6832,consistent with chance [low minutes],0
+3130,Gaël Kakuta,Congo DR,Center Attacking Midfield,284.2792,8.0,0.0,0.3401,-0.3401,0.0,0.0,10.8471,consistent with chance [low minutes],0
+136414,Luis Nlavo,Equatorial Guinea,Right Midfield,56.3328,3.0,0.0,0.3297,-0.3297,0.0,0.0,11.1895,consistent with chance [low minutes],0
+11492,Ola Aina,Nigeria,Left Wing Back,728.5042,3.0,0.0,0.3151,-0.3151,0.0,0.0,11.7056,consistent with chance,1
+103464,Mohamed Youcef Belaïli,Algeria,Left Wing,191.191,10.0,0.0,0.314,-0.314,0.0,0.0,11.7474,consistent with chance [low minutes],0
+3625,Sofiane Boufal,Morocco,Left Midfield,162.2452,4.0,0.0,0.3122,-0.3122,0.0,0.0,11.8165,consistent with chance [low minutes],0
+28413,Willy Afonso Semedo Johnson,Cape Verde Islands,Right Back,207.2684,4.0,0.0,0.3116,-0.3116,0.0,0.0,11.8394,consistent with chance [low minutes],0
+42527,Sphephelo S''Miso Sithole,South Africa,Left Defensive Midfield,722.1895,5.0,0.0,0.3114,-0.3114,0.0,0.0,11.8472,consistent with chance,1
+156734,Bilal El Khannous,Morocco,Left Center Midfield,73.6224,2.0,0.0,0.3072,-0.3072,0.0,0.0,12.0085,consistent with chance [low minutes],0
+23623,Sekou Koita,Mali,Right Center Forward,186.1371,6.0,0.0,0.3023,-0.3023,0.0,0.0,12.2014,consistent with chance [low minutes],0
+141358,Mohamed El Amine Amoura,Algeria,Left Wing,127.419,2.0,0.0,0.3005,-0.3005,0.0,0.0,12.2772,consistent with chance [low minutes],0
+5237,Hakim Ziyech,Morocco,Right Midfield,215.8342,7.0,1.0,0.2946,0.7054,3.3946,0.0859,18.9137,consistent with chance [low minutes],0
+5651,Yassine Meriah,Tunisia,Right Center Back,299.5773,2.0,0.0,0.2938,-0.2938,0.0,0.0,12.5569,consistent with chance [low minutes],0
+16546,Joseph Paintsil,Ghana,Right Wing,124.9171,1.0,0.0,0.2925,-0.2925,0.0,0.0,12.6101,consistent with chance [low minutes],0
+143863,Franculino Djú,Guinea-Bissau,Center Forward,160.5262,2.0,0.0,0.2898,-0.2898,0.0,0.0,12.7271,consistent with chance [low minutes],0
+102800,Issoufou Dayo,Burkina Faso,Right Center Back,415.8625,2.0,0.0,0.2813,-0.2813,0.0,0.0,13.1135,consistent with chance [low minutes],0
+3013,Nicolas Pépé,Côte d'Ivoire,Center Forward,249.3692,4.0,0.0,0.2799,-0.2799,0.0,0.0,13.1777,consistent with chance [low minutes],0
+5245,Achraf Hakimi,Morocco,Right Back,416.3427,5.0,1.0,0.2759,0.7241,3.6239,0.0917,20.1912,consistent with chance [low minutes],0
+32868,Bryan Alberto Silva Teixeira Jr.,Cape Verde Islands,Center Forward,43.589,2.0,1.0,0.2714,0.7286,3.685,0.0933,20.5316,consistent with chance [low minutes],0
+44311,Alieu Fadera,Gambia,Left Midfield,116.2147,3.0,0.0,0.2679,-0.2679,0.0,0.0,13.7692,consistent with chance [low minutes],0
+6988,Musa Barrow,Gambia,Center Attacking Midfield,309.1312,8.0,0.0,0.267,-0.267,0.0,0.0,13.8175,consistent with chance [low minutes],0
+10865,Witi,Mozambique,Right Midfield,200.9596,4.0,1.0,0.2649,0.7351,3.7744,0.0956,21.0296,consistent with chance [low minutes],0
+66887,Hamdi Fathi,Egypt,Left Center Midfield,368.7028,7.0,0.0,0.2615,-0.2615,0.0,0.0,14.1069,consistent with chance [low minutes],0
+30606,Edmond Fayçal Tapsoba,Burkina Faso,Left Center Back,415.8625,4.0,0.0,0.2608,-0.2608,0.0,0.0,14.1454,consistent with chance [low minutes],0
+23331,Kiki Kouyaté,Mali,Right Center Back,540.0627,2.0,0.0,0.2594,-0.2594,0.0,0.0,14.2223,consistent with chance,1
+24087,Iddrisu Baba,Ghana,Right Defensive Midfield,203.5387,2.0,0.0,0.2569,-0.2569,0.0,0.0,14.3599,consistent with chance [low minutes],0
+3017,Ibrahim Sangaré,Côte d'Ivoire,Center Defensive Midfield,418.7219,5.0,0.0,0.2563,-0.2563,0.0,0.0,14.3948,consistent with chance [low minutes],0
+102667,Hemeya Tanjy,Mauritania,Left Midfield,144.9258,4.0,0.0,0.2543,-0.2543,0.0,0.0,14.5042,consistent with chance [low minutes],0
+7360,Julian Jeanvier,Guinea,Left Center Back,405.1884,4.0,0.0,0.253,-0.253,0.0,0.0,14.5821,consistent with chance [low minutes],0
+40128,Jannick Buyla,Equatorial Guinea,Left Wing,226.2505,1.0,1.0,0.2517,0.7483,3.9735,0.1006,22.1391,consistent with chance [low minutes],0
+67742,Emam Ashour,Egypt,Left Center Midfield,233.9363,7.0,0.0,0.2512,-0.2512,0.0,0.0,14.6877,consistent with chance [low minutes],0
+8349,Deroy Duarte,Cape Verde Islands,Right Center Midfield,230.0682,5.0,0.0,0.2489,-0.2489,0.0,0.0,14.8219,consistent with chance [low minutes],0
+3255,Guessouma Fofana,Mauritania,Left Defensive Midfield,234.488,1.0,0.0,0.2394,-0.2394,0.0,0.0,15.4118,consistent with chance [low minutes],0
+33342,Ebrima Colley,Gambia,Right Midfield,89.6472,1.0,1.0,0.2359,0.7641,4.2385,0.1073,23.6155,consistent with chance [low minutes],0
+36539,Wilfried Stephane Singo,Côte d'Ivoire,Right Back,409.8776,5.0,0.0,0.2315,-0.2315,0.0,0.0,15.9344,consistent with chance [low minutes],0
+74588,Christopher Wooh,Cameroon,Left Center Back,393.8759,2.0,1.0,0.2287,0.7713,4.3724,0.1107,24.3613,consistent with chance [low minutes],0
+12064,Mama Baldé,Guinea-Bissau,Center Forward,157.0767,3.0,0.0,0.2286,-0.2286,0.0,0.0,16.1397,consistent with chance [low minutes],0
+106070,Bruno Langa,Mozambique,Left Back,241.3517,4.0,0.0,0.2268,-0.2268,0.0,0.0,16.2665,consistent with chance [low minutes],0
+4385,Yves Bissouma,Mali,Left Defensive Midfield,210.1625,6.0,0.0,0.2177,-0.2177,0.0,0.0,16.9461,consistent with chance [low minutes],0
+39073,Ilaix Moriba,Guinea,Right Defensive Midfield,267.1642,3.0,0.0,0.2174,-0.2174,0.0,0.0,16.9709,consistent with chance [low minutes],0
+225437,Stephane Ki,Burkina Faso,Center Attacking Midfield,195.4936,8.0,0.0,0.2074,-0.2074,0.0,0.0,17.786,consistent with chance [low minutes],0
+23708,Fashion Sakala,Zambia,Left Midfield,206.591,2.0,0.0,0.202,-0.202,0.0,0.0,18.2621,consistent with chance [low minutes],0
+3141,André Zambo Anguissa,Cameroon,Right Defensive Midfield,416.3563,1.0,0.0,0.202,-0.202,0.0,0.0,18.2662,consistent with chance [low minutes],0
+44751,Lameck Banda,Zambia,Left Wing,212.8936,5.0,0.0,0.2004,-0.2004,0.0,0.0,18.4112,consistent with chance [low minutes],0
+35471,Issa Kabore,Burkina Faso,Right Midfield,415.3958,1.0,0.0,0.1996,-0.1996,0.0,0.0,18.4788,consistent with chance [low minutes],0
+128053,Idrissa Thiam,Mauritania,Left Wing,148.5701,4.0,0.0,0.1989,-0.1989,0.0,0.0,18.5438,consistent with chance [low minutes],0
+105762,Josete Miranda,Equatorial Guinea,Left Wing,145.5505,3.0,1.0,0.1974,0.8026,5.0646,0.1282,28.2182,consistent with chance [low minutes],0
+23301,Kenny Rocha Santos,Cape Verde Islands,Right Center Midfield,314.7441,4.0,0.0,0.1952,-0.1952,0.0,0.0,18.9016,consistent with chance [low minutes],0
+4464,Adama Traoré,Mali,Right Center Forward,159.1873,5.0,0.0,0.1938,-0.1938,0.0,0.0,19.0379,consistent with chance [low minutes],0
+3923,Semi Ajayi,Nigeria,Right Center Back,745.0605,1.0,0.0,0.1936,-0.1936,0.0,0.0,19.0517,consistent with chance,1
+5455,William Troost-Ekong,Nigeria,Center Back,644.9192,3.0,1.0,0.1929,0.8071,5.1845,0.1313,28.8862,consistent with chance,1
+202037,Thapelo Maseko,South Africa,Left Midfield,231.3067,2.0,1.0,0.1878,0.8122,5.3234,0.1348,29.6602,consistent with chance [low minutes],0
+103270,Simon Happygod Msuva,Tanzania,Right Wing,252.1067,4.0,1.0,0.1844,0.8156,5.4236,0.1373,30.2182,consistent with chance [low minutes],0
+9933,Willy Boly,Côte d'Ivoire,Right Center Back,291.3849,1.0,0.0,0.1838,-0.1838,0.0,0.0,20.0703,consistent with chance [low minutes],0
+5675,Kalidou Koulibaly,Senegal,Right Center Back,443.3156,3.0,0.0,0.1824,-0.1824,0.0,0.0,20.2238,consistent with chance [low minutes],0
+2956,Bertrand Traoré,Burkina Faso,Right Wing,224.1023,8.0,0.0,0.1819,-0.1819,0.0,0.0,20.2784,consistent with chance [low minutes],0
+44402,Kings Kangwa,Zambia,Right Center Midfield,202.8329,3.0,1.0,0.1808,0.8192,5.5297,0.14,30.8094,consistent with chance [low minutes],0
+133038,João Paulo Fernandes,Cape Verde Islands,Left Back,474.3366,4.0,0.0,0.1767,-0.1767,0.0,0.0,20.8763,consistent with chance [low minutes],0
+12498,Omar Colley,Gambia,Left Center Back,272.8535,2.0,0.0,0.1765,-0.1765,0.0,0.0,20.8957,consistent with chance [low minutes],0
+3708,Kelechi Iheanacho,Nigeria,Right Wing,40.4285,3.0,0.0,0.1746,-0.1746,0.0,0.0,21.1249,consistent with chance [low minutes],0
+21026,Pape Gueye,Senegal,Center Defensive Midfield,263.1903,2.0,1.0,0.1737,0.8263,5.7577,0.1458,32.0797,consistent with chance [low minutes],0
+23706,Alfons Amade,Mozambique,Left Defensive Midfield,255.7946,2.0,0.0,0.1717,-0.1717,0.0,0.0,21.4806,consistent with chance [low minutes],0
+392153,Lamine Camara,Senegal,Right Center Midfield,288.6892,3.0,2.0,0.1679,1.8321,11.9125,1.4427,43.0321,above expected (outside 95%) [low minutes],0
+69563,Mohamed Abdel Monem,Egypt,Left Center Back,453.8581,5.0,0.0,0.164,-0.164,0.0,0.0,22.4924,consistent with chance [low minutes],0
+8553,Abdou Diallo,Senegal,Center Back,298.501,2.0,0.0,0.1636,-0.1636,0.0,0.0,22.549,consistent with chance [low minutes],0
+389294,Nouh Mohamed El Abd,Mauritania,Right Center Back,204.0833,2.0,0.0,0.161,-0.161,0.0,0.0,22.9191,consistent with chance [low minutes],0
+51941,Mohamed Badamosi,Gambia,Right Center Forward,57.3699,3.0,0.0,0.1586,-0.1586,0.0,0.0,23.2568,consistent with chance [low minutes],0
+80484,Iliman Ndiaye,Senegal,Right Wing,89.6066,1.0,1.0,0.1531,0.8469,6.5306,0.1653,36.3864,consistent with chance [low minutes],0
+3531,Mohamed Salah,Egypt,Center Attacking Midfield,152.0774,3.0,0.0,0.1513,-0.1513,0.0,0.0,24.3832,consistent with chance [low minutes],0
+3587,Arthur Masuaku,Congo DR,Left Back,643.3413,6.0,1.0,0.1497,0.8503,6.6786,0.1691,37.2107,consistent with chance,1
+106068,Gildo Lourenço,Mozambique,Left Midfield,102.598,3.0,0.0,0.1488,-0.1488,0.0,0.0,24.7884,consistent with chance [low minutes],0
+132800,Kevin Pina,Cape Verde Islands,Center Defensive Midfield,456.2647,5.0,1.0,0.1486,0.8514,6.7299,0.1704,37.4966,consistent with chance [low minutes],0
+24478,Paul Onuachu,Nigeria,Center Forward,21.6374,1.0,0.0,0.1446,-0.1446,0.0,0.0,25.5119,consistent with chance [low minutes],0
+90913,Zito Luvumbo,Angola,Right Wing,185.5049,3.0,0.0,0.143,-0.143,0.0,0.0,25.7963,consistent with chance [low minutes],0
+3806,Bright Samuel,Nigeria,Right Wing Back,252.5356,2.0,0.0,0.1391,-0.1391,0.0,0.0,26.5184,consistent with chance [low minutes],0
+13454,Nouhou Tolo,Cameroon,Left Wing Back,313.3566,3.0,0.0,0.1372,-0.1372,0.0,0.0,26.8788,consistent with chance [low minutes],0
+389641,Domingos Macandza,Mozambique,Right Back,189.2019,2.0,0.0,0.137,-0.137,0.0,0.0,26.9349,consistent with chance [low minutes],0
+7426,Jean-Charles Castelletto,Cameroon,Right Center Back,416.3563,2.0,1.0,0.1358,0.8642,7.366,0.1865,41.0405,consistent with chance [low minutes],0
+127300,Geny Cipriano Catamo,Mozambique,Right Attacking Midfield,201.7395,3.0,0.0,0.1342,-0.1342,0.0,0.0,27.485,consistent with chance [low minutes],0
+32015,Hichem Boudaoui,Algeria,Right Center Midfield,66.2373,3.0,0.0,0.1297,-0.1297,0.0,0.0,28.4522,consistent with chance [low minutes],0
+146933,Bodda Mouhsine,Mauritania,Right Defensive Midfield,310.5073,4.0,0.0,0.1276,-0.1276,0.0,0.0,28.9014,consistent with chance [low minutes],0
+16607,Assan Ceesay,Gambia,Center Forward,40.8786,1.0,0.0,0.1269,-0.1269,0.0,0.0,29.0715,consistent with chance [low minutes],0
+32915,Ismail Jakobs,Senegal,Left Wing Back,434.0596,2.0,0.0,0.1264,-0.1264,0.0,0.0,29.1766,consistent with chance [low minutes],0
+8992,Ibrahim Sissoko,Mali,Center Forward,91.1618,1.0,0.0,0.123,-0.123,0.0,0.0,30.0025,consistent with chance [low minutes],0
+10530,Olivier Ntcham,Cameroon,Left Defensive Midfield,334.0302,5.0,0.0,0.1214,-0.1214,0.0,0.0,30.3838,consistent with chance [low minutes],0
+16335,Samuel Chukwueze,Nigeria,Right Attacking Midfield,315.2809,4.0,0.0,0.1173,-0.1173,0.0,0.0,31.447,consistent with chance [low minutes],0
+105942,Pablo Ganet,Equatorial Guinea,Left Defensive Midfield,345.2108,4.0,1.0,0.1172,0.8828,8.5288,0.2159,47.5195,consistent with chance [low minutes],0
+4267,Mouctar Diakhaby,Guinea,Right Center Back,405.1884,2.0,0.0,0.1171,-0.1171,0.0,0.0,31.5035,consistent with chance [low minutes],0
+136406,Aprocious Petrus,Namibia,Right Defensive Midfield,400.6129,2.0,0.0,0.1136,-0.1136,0.0,0.0,32.4663,consistent with chance [low minutes],0
+217047,Fares Chaïbi,Algeria,Right Center Midfield,126.7474,3.0,0.0,0.1092,-0.1092,0.0,0.0,33.7657,consistent with chance [low minutes],0
+18244,Grady Diangana,Congo DR,Center Attacking Midfield,89.3401,2.0,0.0,0.1082,-0.1082,0.0,0.0,34.1078,consistent with chance [low minutes],0
+8505,Naby Keïta,Guinea,Left Defensive Midfield,210.1986,1.0,0.0,0.1078,-0.1078,0.0,0.0,34.2155,consistent with chance [low minutes],0
+8520,Nabil Bentaleb,Algeria,Right Defensive Midfield,202.791,1.0,0.0,0.1077,-0.1077,0.0,0.0,34.2457,consistent with chance [low minutes],0
+3811,Islam Slimani,Algeria,Left Center Forward,83.2639,2.0,0.0,0.1062,-0.1062,0.0,0.0,34.7316,consistent with chance [low minutes],0
+102661,Mohamed Dellahi Yali,Mauritania,Right Center Back,103.7372,2.0,1.0,0.1043,0.8957,9.5864,0.2427,53.4122,consistent with chance [low minutes],0
+39174,Ismael Saibari,Morocco,Left Center Midfield,115.6874,1.0,0.0,0.1041,-0.1041,0.0,0.0,35.4305,consistent with chance [low minutes],0
+106082,Lau King,Mozambique,Center Forward,141.8338,2.0,0.0,0.1028,-0.1028,0.0,0.0,35.8989,consistent with chance [low minutes],0
+10854,Dálcio,Guinea-Bissau,Center Attacking Midfield,122.9365,3.0,0.0,0.1026,-0.1026,0.0,0.0,35.95,consistent with chance [low minutes],0
+28415,Charles Pickel,Congo DR,Right Defensive Midfield,525.9,3.0,0.0,0.1018,-0.1018,0.0,0.0,36.22,consistent with chance,1
+128793,Taha Yassine Khenissi,Tunisia,Center Forward,13.1,1.0,0.0,0.0999,-0.0999,0.0,0.0,36.9245,consistent with chance [low minutes],0
+36271,R.Lopes,Cape Verde Islands,Left Center Back,440.858,1.0,0.0,0.099,-0.099,0.0,0.0,37.2666,consistent with chance [low minutes],0
+2989,Alexander Djiku,Ghana,Right Center Back,306.7495,1.0,1.0,0.0974,0.9026,10.2632,0.2598,57.183,consistent with chance [low minutes],0
+6393,Iñaki Williams,Ghana,Right Wing,121.899,1.0,0.0,0.0974,-0.0974,0.0,0.0,37.8913,consistent with chance [low minutes],0
+30423,Ibán Salvador,Equatorial Guinea,Right Wing,363.6608,2.0,1.0,0.0962,0.9038,10.3995,0.2633,57.9425,consistent with chance [low minutes],0
+4506,Nampalys Mendy,Senegal,Left Center Midfield,119.3018,3.0,0.0,0.096,-0.096,0.0,0.0,38.4423,consistent with chance [low minutes],0
+389675,Kennedy Musonda,Zambia,Center Attacking Midfield,97.2602,2.0,0.0,0.0953,-0.0953,0.0,0.0,38.6933,consistent with chance [low minutes],0
+67737,Ahmed El Fotouh,Egypt,Left Back,101.3386,3.0,0.0,0.0923,-0.0923,0.0,0.0,39.9661,consistent with chance [low minutes],0
+7214,El-Hadji Ba,Mauritania,Left Center Midfield,63.6596,1.0,0.0,0.0909,-0.0909,0.0,0.0,40.5973,consistent with chance [low minutes],0
+103208,Kialonda Gaspar,Angola,Right Center Back,507.8769,2.0,0.0,0.0905,-0.0905,0.0,0.0,40.753,consistent with chance,1
+389316,Ngero Kaanjuka Katua,Namibia,Left Center Midfield,245.0354,3.0,0.0,0.0894,-0.0894,0.0,0.0,41.2616,consistent with chance [low minutes],0
+23260,Emmanuel Banda,Zambia,Center Defensive Midfield,303.9512,4.0,0.0,0.0883,-0.0883,0.0,0.0,41.7548,consistent with chance [low minutes],0
+20758,Krépin Diatta,Senegal,Right Wing Back,443.3156,2.0,0.0,0.0882,-0.0882,0.0,0.0,41.8082,consistent with chance [low minutes],0
+10280,Aboubakar Kamara,Mauritania,Right Center Forward,117.9219,2.0,0.0,0.0882,-0.0882,0.0,0.0,41.8469,consistent with chance [low minutes],0
+10848,Reinildo Mandava,Mozambique,Left Back,308.1168,2.0,1.0,0.0865,0.9135,11.5643,0.2928,64.4321,consistent with chance [low minutes],0
+129475,Nené,Mozambique,Left Defensive Midfield,91.1444,1.0,0.0,0.086,-0.086,0.0,0.0,42.9141,consistent with chance [low minutes],0
+125333,Petrus Shitembi,Namibia,Right Center Midfield,150.7218,1.0,0.0,0.0843,-0.0843,0.0,0.0,43.7585,consistent with chance [low minutes],0
+118368,Amir Richardson,Morocco,Left Center Midfield,27.4009,1.0,0.0,0.0826,-0.0826,0.0,0.0,44.6861,consistent with chance [low minutes],0
+4308,Houssem Aouar,Algeria,Left Center Midfield,67.1722,1.0,0.0,0.0822,-0.0822,0.0,0.0,44.8967,consistent with chance [low minutes],0
+41052,Fali Candé,Guinea-Bissau,Left Back,217.5963,4.0,0.0,0.0798,-0.0798,0.0,0.0,46.2468,consistent with chance [low minutes],0
+176683,Ibrahim Diakité,Guinea,Right Back,358.6497,1.0,0.0,0.0795,-0.0795,0.0,0.0,46.4219,consistent with chance [low minutes],0
+9286,Antoine Semenyo,Ghana,Center Forward,244.5945,2.0,0.0,0.0791,-0.0791,0.0,0.0,46.6569,consistent with chance [low minutes],0
+4909,Jérémie Boga,Côte d'Ivoire,Left Wing,205.8417,1.0,0.0,0.0788,-0.0788,0.0,0.0,46.8257,consistent with chance [low minutes],0
+102722,Siyanda Xulu,South Africa,Right Center Back,271.7454,1.0,0.0,0.078,-0.078,0.0,0.0,47.2741,consistent with chance [low minutes],0
+28212,Alasana Manneh,Gambia,Right Defensive Midfield,178.3252,2.0,0.0,0.0776,-0.0776,0.0,0.0,47.5079,consistent with chance [low minutes],0
+233463,Ernest Appiah Nuamah,Ghana,Right Wing,37.5721,2.0,0.0,0.0772,-0.0772,0.0,0.0,47.809,consistent with chance [low minutes],0
+132461,Mohamed Elias Achouri,Tunisia,Right Wing,238.097,1.0,0.0,0.0769,-0.0769,0.0,0.0,47.9969,consistent with chance [low minutes],0
+3767,Ellyes Joris Skhiri,Tunisia,Right Defensive Midfield,287.3854,2.0,0.0,0.0762,-0.0762,0.0,0.0,48.4109,consistent with chance [low minutes],0
+363738,Nito Gomes,Guinea-Bissau,Right Defensive Midfield,99.408,2.0,0.0,0.075,-0.075,0.0,0.0,49.1641,consistent with chance [low minutes],0
+27434,Alhassan Yusuf Abdullahi,Nigeria,Right Center Midfield,127.4205,3.0,0.0,0.0747,-0.0747,0.0,0.0,49.4118,consistent with chance [low minutes],0
+50497,Nicolas Jackson,Senegal,Center Forward,129.2991,1.0,0.0,0.0744,-0.0744,0.0,0.0,49.5577,consistent with chance [low minutes],0
+50503,Sayfallah Ltaief,Tunisia,Left Midfield,68.9803,1.0,0.0,0.0737,-0.0737,0.0,0.0,50.0403,consistent with chance [low minutes],0
+389092,Ibrahim Abdallah Hamad,Tanzania,Left Center Back,298.7998,1.0,0.0,0.0732,-0.0732,0.0,0.0,50.3678,consistent with chance [low minutes],0
+65761,Jayden Adams,South Africa,Center Attacking Midfield,35.2309,1.0,0.0,0.0728,-0.0728,0.0,0.0,50.681,consistent with chance [low minutes],0
+23774,Selim Amallah,Morocco,Left Center Midfield,211.0163,1.0,0.0,0.0724,-0.0724,0.0,0.0,50.941,consistent with chance [low minutes],0
+24806,Mohamed Camara,Mali,Center Defensive Midfield,123.4845,2.0,0.0,0.071,-0.071,0.0,0.0,51.9632,consistent with chance [low minutes],0
+7355,Olivier Kemen,Cameroon,Left Center Midfield,213.1233,3.0,0.0,0.0707,-0.0707,0.0,0.0,52.1586,consistent with chance [low minutes],0
+10040,Youcef Atal,Algeria,Right Back,274.5792,3.0,0.0,0.0705,-0.0705,0.0,0.0,52.3111,consistent with chance [low minutes],0
+12111,Rayan Aït Nouri,Algeria,Left Back,313.7115,3.0,0.0,0.0697,-0.0697,0.0,0.0,52.9033,consistent with chance [low minutes],0
+307271,Yankuba Minteh,Gambia,Left Midfield,230.061,2.0,0.0,0.0695,-0.0695,0.0,0.0,53.1007,consistent with chance [low minutes],0
+286708,Kévin Daniel Van Den Kerkhof,Algeria,Right Back,39.5656,2.0,0.0,0.0686,-0.0686,0.0,0.0,53.763,consistent with chance [low minutes],0
+65733,Aubrey Maphosa Modiba,South Africa,Left Back,763.2034,4.0,0.0,0.0675,-0.0675,0.0,0.0,54.6393,consistent with chance,1
+199653,Nene Dorgeles,Mali,Left Midfield,207.9772,3.0,1.0,0.0667,0.9333,14.9972,0.3797,83.5591,consistent with chance [low minutes],0
+23999,Blati,Burkina Faso,Left Center Midfield,312.9414,1.0,0.0,0.0647,-0.0647,0.0,0.0,57.0529,consistent with chance [low minutes],0
+138493,Morice Michael Abraham,Tanzania,Right Wing,99.3896,1.0,0.0,0.0644,-0.0644,0.0,0.0,57.2646,consistent with chance [low minutes],0
+46312,Famana Quizera,Guinea-Bissau,Right Wing,71.8958,4.0,0.0,0.0641,-0.0641,0.0,0.0,57.5145,consistent with chance [low minutes],0
+12149,Nayef Aguerd,Morocco,Right Center Back,416.2427,1.0,0.0,0.064,-0.064,0.0,0.0,57.6281,consistent with chance [low minutes],0
+24411,Adama Guira,Burkina Faso,Right Defensive Midfield,139.3992,1.0,0.0,0.0633,-0.0633,0.0,0.0,58.2453,consistent with chance [low minutes],0
+145622,Denis Kibu,Tanzania,Left Wing,91.6056,1.0,0.0,0.0628,-0.0628,0.0,0.0,58.722,consistent with chance [low minutes],0
+30193,Gédéon Kalulu,Congo DR,Right Back,643.3413,1.0,0.0,0.0618,-0.0618,0.0,0.0,59.6718,consistent with chance,1
+43007,Mauro Rodrigues,Guinea-Bissau,Right Wing,162.2266,2.0,0.0,0.061,-0.061,0.0,0.0,60.472,consistent with chance [low minutes],0
+20840,Zinho Gano,Guinea-Bissau,Center Forward,49.2791,1.0,0.0,0.06,-0.06,0.0,0.0,61.5228,consistent with chance [low minutes],0
+30626,Estrela,Angola,Left Center Midfield,182.5944,1.0,0.0,0.06,-0.06,0.0,0.0,61.5251,consistent with chance [low minutes],0
+422691,José Nabil,Equatorial Guinea,Right Wing,22.4108,1.0,0.0,0.0596,-0.0596,0.0,0.0,61.8569,consistent with chance [low minutes],0
+45466,Gustavo Sangaré,Burkina Faso,Right Defensive Midfield,284.1127,1.0,0.0,0.0596,-0.0596,0.0,0.0,61.9044,consistent with chance [low minutes],0
+3710,Fousseni Diabaté,Mali,Right Midfield,229.2905,2.0,0.0,0.0592,-0.0592,0.0,0.0,62.3065,consistent with chance [low minutes],0
+16548,Mbwana Samatta,Tanzania,Center Forward,259.6316,2.0,0.0,0.0568,-0.0568,0.0,0.0,64.9927,consistent with chance [low minutes],0
+3856,Joe Aribo,Nigeria,Left Defensive Midfield,137.2565,1.0,0.0,0.0549,-0.0549,0.0,0.0,67.2366,consistent with chance [low minutes],0
+10323,Alfa Semedo,Guinea-Bissau,Right Defensive Midfield,196.3122,3.0,0.0,0.0538,-0.0538,0.0,0.0,68.5724,consistent with chance [low minutes],0
+23559,Pepín Machín,Equatorial Guinea,Center Attacking Midfield,384.2283,2.0,0.0,0.053,-0.053,0.0,0.0,69.6392,consistent with chance [low minutes],0
+10039,Ghislain Konan,Côte d'Ivoire,Left Back,723.604,1.0,0.0,0.0523,-0.0523,0.0,0.0,70.5408,consistent with chance,1
+16015,Moumi Ngamaleu,Cameroon,Right Wing Back,168.4892,2.0,0.0,0.0521,-0.0521,0.0,0.0,70.8408,consistent with chance [low minutes],0
+27133,Odilon Kossonou,Côte d'Ivoire,Right Center Back,273.1901,2.0,0.0,0.0505,-0.0505,0.0,0.0,73.0993,consistent with chance [low minutes],0
+7568,Opa Sangante,Guinea-Bissau,Left Center Back,197.6006,1.0,0.0,0.0503,-0.0503,0.0,0.0,73.2957,consistent with chance [low minutes],0
+64607,Zakhele Lerato Lepasa,South Africa,Left Center Forward,162.7823,1.0,0.0,0.05,-0.05,0.0,0.0,73.727,consistent with chance [low minutes],0
+23983,Jérémy Bela,Angola,Left Wing,73.2094,1.0,0.0,0.0494,-0.0494,0.0,0.0,74.6379,consistent with chance [low minutes],0
+3568,Mohamed Elneny,Egypt,Right Center Midfield,279.1276,1.0,0.0,0.0492,-0.0492,0.0,0.0,74.994,consistent with chance [low minutes],0
+138875,Djibril Cheick Ouattara,Burkina Faso,Left Wing,67.3457,1.0,0.0,0.0489,-0.0489,0.0,0.0,75.4662,consistent with chance [low minutes],0
+105946,Henoc Inonga Baka,Congo DR,Left Center Back,420.5323,1.0,0.0,0.0488,-0.0488,0.0,0.0,75.5551,consistent with chance [low minutes],0
+29482,Ricardo Guimarães,Mozambique,Left Defensive Midfield,284.899,1.0,0.0,0.0485,-0.0485,0.0,0.0,76.0793,consistent with chance [low minutes],0
+43705,Abdoul Tapsoba,Burkina Faso,Left Wing,215.0039,1.0,0.0,0.0477,-0.0477,0.0,0.0,77.2925,consistent with chance [low minutes],0
+7197,Steven Moreira,Cape Verde Islands,Right Back,452.904,1.0,0.0,0.0462,-0.0462,0.0,0.0,79.9071,consistent with chance [low minutes],0
+3814,Riyad Mahrez,Algeria,Right Wing,238.3758,1.0,0.0,0.0454,-0.0454,0.0,0.0,81.2723,consistent with chance [low minutes],0
+18724,Sofiane Feghouli,Algeria,Center Attacking Midfield,51.1794,1.0,0.0,0.0446,-0.0446,0.0,0.0,82.778,consistent with chance [low minutes],0
+3405,François Kamano,Guinea,Left Wing,67.9472,1.0,0.0,0.0445,-0.0445,0.0,0.0,82.8743,consistent with chance [low minutes],0
+29217,Edward Chilufya,Zambia,Right Wing,86.6269,1.0,0.0,0.0422,-0.0422,0.0,0.0,87.416,consistent with chance [low minutes],0
+25056,Marcelo Djaló,Guinea-Bissau,Right Center Back,202.5174,1.0,0.0,0.042,-0.042,0.0,0.0,87.9191,consistent with chance [low minutes],0
+70682,Marwan Attia,Egypt,Center Defensive Midfield,204.1597,2.0,0.0,0.0419,-0.0419,0.0,0.0,88.133,consistent with chance [low minutes],0
+103207,Loide Augusto,Angola,Right Wing Back,81.6642,1.0,0.0,0.0398,-0.0398,0.0,0.0,92.6467,consistent with chance [low minutes],0
+11515,Ismaël Bennacer,Algeria,Left Center Midfield,84.3476,1.0,0.0,0.0393,-0.0393,0.0,0.0,93.8628,consistent with chance [low minutes],0
+11923,Aly Abeid,Mauritania,Left Back,153.1521,1.0,0.0,0.0393,-0.0393,0.0,0.0,93.9438,consistent with chance [low minutes],0
+408457,Idrissa Gueye,Senegal,Left Defensive Midfield,4.8629,1.0,0.0,0.0386,-0.0386,0.0,0.0,95.6172,consistent with chance [low minutes],0
+23957,Jean Thierry Lazare Amani,Côte d'Ivoire,Center Attacking Midfield,40.0982,1.0,0.0,0.0384,-0.0384,0.0,0.0,96.1792,consistent with chance [low minutes],0
+3433,Lassana Coulibaly,Mali,Right Center Midfield,310.9203,1.0,0.0,0.0379,-0.0379,0.0,0.0,97.3542,consistent with chance [low minutes],0
+4352,Issiaga Sylla,Guinea,Left Back,405.1867,1.0,0.0,0.0375,-0.0375,0.0,0.0,98.3677,consistent with chance [low minutes],0
+31016,Show,Angola,Left Defensive Midfield,439.735,2.0,0.0,0.0372,-0.0372,0.0,0.0,99.0367,consistent with chance [low minutes],0
+10448,Adam Ounas,Algeria,Right Wing,123.1372,2.0,0.0,0.0364,-0.0364,0.0,0.0,101.2921,consistent with chance [low minutes],0
+35689,James Gomez,Gambia,Right Center Back,309.1312,1.0,0.0,0.0355,-0.0355,0.0,0.0,103.8524,consistent with chance [low minutes],0
+5243,Amine Harit,Morocco,Right Midfield,77.0867,1.0,0.0,0.035,-0.035,0.0,0.0,105.3203,consistent with chance [low minutes],0
+30693,Majeed Ashimeru,Ghana,Left Defensive Midfield,192.6093,1.0,0.0,0.035,-0.035,0.0,0.0,105.3952,consistent with chance [low minutes],0
+67714,Aliou Dieng,Mali,Right Center Midfield,152.2854,2.0,0.0,0.0345,-0.0345,0.0,0.0,106.9383,consistent with chance [low minutes],0
+3359,Jean Michaël Seri,Côte d'Ivoire,Left Defensive Midfield,386.927,2.0,0.0,0.0335,-0.0335,0.0,0.0,110.0104,consistent with chance [low minutes],0
+52324,Saúl Coco,Equatorial Guinea,Left Center Back,408.5194,3.0,0.0,0.0334,-0.0334,0.0,0.0,110.3254,consistent with chance [low minutes],0
+105944,Wajdi Kechrida,Tunisia,Right Back,299.5773,1.0,0.0,0.0333,-0.0333,0.0,0.0,110.7267,consistent with chance [low minutes],0
+34845,Federico Bikoro Akieme Nchama,Equatorial Guinea,Right Defensive Midfield,365.3118,1.0,0.0,0.0323,-0.0323,0.0,0.0,114.2194,consistent with chance [low minutes],0
+32433,Jefferson Encada,Guinea-Bissau,Right Back,202.5174,2.0,0.0,0.0306,-0.0306,0.0,0.0,120.5765,consistent with chance [low minutes],0
+32190,Darline Yongwa,Cameroon,Left Back,186.6781,1.0,0.0,0.0294,-0.0294,0.0,0.0,125.5748,consistent with chance [low minutes],0
+40868,Amadou Dante,Mali,Left Back,26.9723,1.0,0.0,0.0292,-0.0292,0.0,0.0,126.1366,consistent with chance [low minutes],0
+30681,Ali Abdi,Tunisia,Left Back,198.5378,1.0,0.0,0.0289,-0.0289,0.0,0.0,127.4964,consistent with chance [low minutes],0
+341163,Omaré Gassama,Mauritania,Left Defensive Midfield,346.0848,2.0,0.0,0.0268,-0.0268,0.0,0.0,137.88,consistent with chance [low minutes],0
+44955,Aïssa Laïdouni,Tunisia,Left Defensive Midfield,250.4705,1.0,0.0,0.0258,-0.0258,0.0,0.0,143.1827,consistent with chance [low minutes],0
+225436,Abdoul Razack Guiebre,Burkina Faso,Left Back,80.9086,2.0,0.0,0.0253,-0.0253,0.0,0.0,145.5437,consistent with chance [low minutes],0
+32450,Montassar Omar Talbi,Tunisia,Left Center Back,299.5773,1.0,0.0,0.0248,-0.0248,0.0,0.0,148.6677,consistent with chance [low minutes],0
+105764,Basilio Ndong,Equatorial Guinea,Left Back,407.5861,1.0,0.0,0.0241,-0.0241,0.0,0.0,153.3586,consistent with chance [low minutes],0
+35592,Anis Slimane,Tunisia,Left Center Forward,236.947,3.0,0.0,0.0235,-0.0235,0.0,0.0,157.3011,consistent with chance [low minutes],0
+3481,Serge Aurier,Côte d'Ivoire,Right Back,377.3496,1.0,0.0,0.0229,-0.0229,0.0,0.0,161.1947,consistent with chance [low minutes],0
+196109,Ousmane Diomande,Côte d'Ivoire,Right Center Back,183.0071,1.0,0.0,0.0212,-0.0212,0.0,0.0,173.8123,consistent with chance [low minutes],0
+65555,Riaan Hanamub,Namibia,Left Back,400.6129,2.0,0.0,0.0208,-0.0208,0.0,0.0,177.1235,consistent with chance [low minutes],0
+50501,Ebrima Darboe,Gambia,Left Center Midfield,153.8553,1.0,0.0,0.0207,-0.0207,0.0,0.0,178.2323,consistent with chance [low minutes],0
+66892,Mohamed Hany,Egypt,Right Back,315.4032,1.0,0.0,0.0196,-0.0196,0.0,0.0,187.8676,consistent with chance [low minutes],0
+417067,Nanani,Mozambique,Right Back,118.915,1.0,0.0,0.0196,-0.0196,0.0,0.0,188.2634,consistent with chance [low minutes],0
+3450,Jordan Ayew,Ghana,Left Wing,300.4773,1.0,0.0,0.0195,-0.0195,0.0,0.0,189.2234,consistent with chance [low minutes],0
+23873,Nurio Fortuna,Angola,Left Wing Back,202.2998,1.0,0.0,0.0192,-0.0192,0.0,0.0,192.5946,consistent with chance [low minutes],0
+50498,Pape Sarr,Senegal,Right Defensive Midfield,288.4395,1.0,0.0,0.0187,-0.0187,0.0,0.0,197.4438,consistent with chance [low minutes],0
+58878,Boubacar Traore,Mali,Right Center Midfield,51.3013,1.0,0.0,0.0146,-0.0146,0.0,0.0,253.0974,consistent with chance [low minutes],0
+68755,Mostafa Fathi,Egypt,Right Wing,99.0254,1.0,0.0,0.0126,-0.0126,0.0,0.0,293.2395,consistent with chance [low minutes],0
+69442,Nyiko Mobbie,South Africa,Right Back,70.1574,2.0,0.0,0.0123,-0.0123,0.0,0.0,300.9434,consistent with chance [low minutes],0
+136411,Óscar Siafá,Equatorial Guinea,Center Forward,19.7137,1.0,0.0,0.0117,-0.0117,0.0,0.0,315.5214,consistent with chance [low minutes],0
+3557,Naïm Sliti,Tunisia,Center Attacking Midfield,26.0418,1.0,0.0,0.0111,-0.0111,0.0,0.0,333.4121,consistent with chance [low minutes],0
+47762,Jacob Mendy,Gambia,Left Back,204.8112,1.0,0.0,0.0086,-0.0086,0.0,0.0,431.0236,consistent with chance [low minutes],0
+160904,Miguel Changa Chaiwa,Zambia,Right Defensive Midfield,111.3611,1.0,0.0,0.0075,-0.0075,0.0,0.0,494.6636,consistent with chance [low minutes],0
+44307,Cédric Badolo,Burkina Faso,Left Wing,197.4086,1.0,0.0,0.0074,-0.0074,0.0,0.0,499.0425,consistent with chance [low minutes],0
+103268,Faisal Salum Abdalla,Tanzania,Center Attacking Midfield,171.8546,1.0,0.0,0.0073,-0.0073,0.0,0.0,504.7628,consistent with chance [low minutes],0
+103910,Cletous Chama,Zambia,Left Center Midfield,35.3056,1.0,0.0,0.007,-0.007,0.0,0.0,528.4416,consistent with chance [low minutes],0
+389292,Khadim Diaw,Mauritania,Left Back,261.1544,1.0,0.0,0.0068,-0.0068,0.0,0.0,543.0441,consistent with chance [low minutes],0
+105766,Mohamed Hussein Mohamed,Tanzania,Left Back,298.7998,1.0,0.0,0.0065,-0.0065,0.0,0.0,567.1753,consistent with chance [low minutes],0
+408674,Aboubacar Traoré,Mali,Left Defensive Midfield,8.6466,1.0,0.0,0.0065,-0.0065,0.0,0.0,567.6473,consistent with chance [low minutes],0
+23420,Lubambo Musonda,Zambia,Left Back,231.0806,1.0,0.0,0.006,-0.006,0.0,0.0,611.6971,consistent with chance [low minutes],0
+3250,Mexer,Mozambique,Right Center Back,308.1168,1.0,0.0,0.0058,-0.0058,0.0,0.0,634.8892,consistent with chance [low minutes],0
+136055,Novatus Dismas Miroshi,Tanzania,Left Defensive Midfield,167.9242,1.0,0.0,0.0054,-0.0054,0.0,0.0,680.2329,consistent with chance [low minutes],0
+315395,Bakari Camara,Mauritania,Right Midfield,21.7308,1.0,0.0,0.0054,-0.0054,0.0,0.0,680.8913,consistent with chance [low minutes],0
